@@ -1,0 +1,78 @@
+/* header while scrolling stay in top and background color given*/
+.header {
+    background-color: purple;
+    position: sticky;
+    top: 0;
+}
+
+/* srec logo resized and dispalying in header left-side */
+.logosrec {
+    float: left;
+    position: relative;
+    display: block;
+    max-width: 160%;
+    max-height: 160%;
+    padding: 1px;
+    width:170px;
+    height:170px;
+    margin: 1%;
+    top: 0;
+
+}
+
+/* snr logo resized and dispalying in header right-size*/
+.logosnr {
+    float: right;
+    position: relative;
+    display: block;
+    max-width: 160%;
+    max-height: 160%;
+    padding: 12px;
+    width:170px;
+    height:170px;
+    left: 5px;
+    margin: 1%;
+    top: 0;
+    /* right: 2px; */
+    
+}
+
+/* srec_name font color and alignment */
+.srec_name{
+    font-size: 60px;
+    text-align: center;
+    /* padding-top: 1%; */
+    /* font-family:tahoma;
+    font-style:cursive; */
+}
+
+/* digipro_name font color and alignment */
+.digipro_name{
+    font-size: 60px;
+    text-align: center;
+    /* font-family:tahoma;
+    font-style:cursive; */
+}
+
+/* welcome_name font color and alignment */
+.welcome_name{
+    font-size: 25px;
+    text-align: center;
+}
+
+
+/* title_card div tag contain srec_name, digipro_name, welcome_name are animated  */
+.title_card {
+    padding: 40px ;
+    color:transparent;-webkit-text-stroke:1px #fff;
+    background: url(/src/componunts/frontend/assets/digipro\ header\ title\ card\ background.svg);-webkit-background-clip:text;
+    animation:title_card 20s linear infinite;
+     /* text-align: center; */
+     /* background-color:purple; */
+     /* background-position:0 0; */
+}
+@keyframes title_card{ 
+    100%{ 
+       background-position: 2000px  ;
+       }
+}
