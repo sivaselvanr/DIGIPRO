@@ -1,10 +1,13 @@
 #! /bin/bash
 
-
-git status
-sleep 2
-git add .
-time=$(date)
-git commit -m "siva $time"
-sleep 2
-git push 
+a=1
+while :
+do
+	git status
+	git add .
+	time=$(date)
+	git commit -m "siva $time"
+	git push 
+	a++;
+done
+echo 'done $a'
