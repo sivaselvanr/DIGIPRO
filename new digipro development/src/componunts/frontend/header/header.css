@@ -11,7 +11,7 @@
 .logosrec {
     float: left;
     position: relative;
-    display: block;
+    /* display: block; */
     max-width: 150%;
     max-height: 150%;
     width:150px;
