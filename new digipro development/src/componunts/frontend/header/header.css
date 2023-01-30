@@ -1,8 +1,20 @@
+/* html{
+    height: -webkit-fill-available;
+}
+.header{
+    height: -webkit-fill-available;
+} */
+
 /* header while scrolling stay in top and background color given*/
 .header {
     background-color: purple;
     position: sticky;
     top: 0;
+    border-radius: 35px 35px 35px 35px ;
+    box-shadow: 5px 1px 1000px 10px ;
+    /* overflow: scroll; */
+    /* display: flex; */
+    /* height:  -webkit-fill-available; */
 }
 
 /* srec logo resized and dispalying in header left-side */
@@ -12,11 +24,11 @@
     display: block;
     max-width: 160%;
     max-height: 160%;
-    padding: 1px;
     width:170px;
     height:170px;
     margin: 1%;
     top: 0;
+    /* padding: 1px; */
 
 }
 
@@ -60,7 +72,6 @@
     text-align: center;
 }
 
-
 /* title_card div tag contain srec_name, digipro_name, welcome_name are animated  */
 .title_card {
     padding: 40px ;
@@ -71,6 +82,7 @@
      /* background-color:purple; */
      /* background-position:0 0; */
 }
+/* title card background animation */
 @keyframes title_card{ 
     100%{ 
        background-position: 2000px  ;

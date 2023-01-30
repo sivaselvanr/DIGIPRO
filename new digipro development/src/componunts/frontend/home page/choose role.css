@@ -1,0 +1,105 @@
+/* choose_role full page */
+.choose_role{
+    text-align: center;
+    background-color: lightblue;
+    width: 1000px;
+    height: 500px;
+    border-radius: 50px;
+    margin: auto;
+    margin-top: 3%;
+    /* border-color: black; */
+    /* position: static; */
+    /* margin-left: 25%; */
+    /* padding: 50px; */
+    /* border: 10px solid blue; */
+    /* box-sizing: border-box; */
+}
+/* choose role full page background and transmation */
+.choose_role:hover {
+    background-color: #87CEEB;
+    transition: background-color 0.7s;
+}
+
+/* choose_role_title = "CHOOSE ROLE" alignment */
+.choose_role_name{
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    color: aliceblue;
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+/* student button style */
+.student_button{
+    color: rgb(86, 86, 86);
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    width: 25%;
+    height: 250px;
+    border-radius: 50px 50px 50px 50px;
+    background-color: #c0efca;
+    background-image: url(/src/componunts/frontend/assets/choose\ role\ page\ button\ icons/student\ button\ icon.svg);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: -25px 0px;
+    /* backdrop-filter: blur(8px); */
+    /* -webkit-filter: blur(3px); */
+    /* filter: blur(8px); */
+    /* font: 20px; */
+    /* background-size: contain; */
+    /* position: relative; */
+    /* margin-right: 450px; */
+}
+/* student button hover animation */
+.student_button:hover {
+    background-color: #8cfca2;
+    transition: background-color 0.7s;
+    color: rgb(72, 72, 72);
+    transform:scale(1.1,1.1);
+    transition: all 0.50s;
+    transition-timing-function:cubic-bezier(0.5, 3, 0, 1);
+    /* color: whitesmoke; */
+}
+/* student while clicking animation */
+.student_button:active {
+    background-color: bisque;
+    transition: background-color 0.1s;
+    transform: scale(0.98,0.98);
+    /* transition: max-height 0.15s ease-out; */
+
+}
+
+/* tutor button style */
+.tutor_button{
+    color: rgb(86, 86, 86);
+    width: 25%;
+    height: 250px;
+    margin-left: 20%;
+    font-weight: 900;
+    font-size: 50px;
+    background-color: #c0efca;
+    background-image: url(/src/componunts/frontend/assets/choose\ role\ page\ button\ icons/teacher\ button\ icon.svg);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position: -2px 0px;
+    border-radius: 50px 50px 50px 50px;
+    /* font-family: monospace; */    
+    /* position: relative; */
+}
+/* tutor button hover animation */
+.tutor_button:hover {
+    background-color: #8cfca2;
+    transition: background-color 0.7s;
+    color: rgb(72, 72, 72);
+    transform:scale(1.1,1.1);
+    transition: all 0.50s;
+    transition-timing-function:cubic-bezier(0.5, 3, 0, 1);
+}
+/* tutor button while cliking animation */
+.tutor_button:active {
+    background-color: bisque;;
+    transition: background-color 0.1s; 
+    transform: scale(0.98,0.98);
+}

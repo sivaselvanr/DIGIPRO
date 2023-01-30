@@ -18,9 +18,9 @@ export default function Header() {
 
             {/* title name */}
             <div className="title_card">
-                    <h2 className="srec_name">SRI RAMAKRISHNA ENGINEERING COLLEGE</h2>
-                    <h1 className="digipro_name"><b>DIGI-PRO</b></h1>
-                    <h4 className="welcome_name">WELCOMES YOU</h4>
+                <h2 className="srec_name">SRI RAMAKRISHNA ENGINEERING COLLEGE</h2>
+                <h1 className="digipro_name"><b>DIGI-PRO</b></h1>
+                <h4 className="welcome_name">WELCOMES YOU</h4>
             </div>
         </div>
     );
