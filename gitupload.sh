@@ -9,5 +9,5 @@ do
 	git commit -m "siva $time"
 	git push 
 	echo "done $a"
-	((++a))
 done
+((a++))
