@@ -1,6 +1,6 @@
 /* header while scrolling stay in top and background color given*/
 .header {
-    background-color: purple;
+    /* background-color: purple; */
     position: sticky;
     top: 0;
     border-radius: 35px 35px 35px 35px ;
