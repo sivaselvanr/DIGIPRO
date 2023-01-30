@@ -8,6 +8,6 @@ do
 	time=$(date)
 	git commit -m "siva $time"
 	git push 
-	((a++))
 	echo "done $a"
+	((++a))
 done
