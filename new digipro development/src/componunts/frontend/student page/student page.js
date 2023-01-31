@@ -37,9 +37,20 @@ export default function Student_page() {
                 </form>
             </div>
             <p>
-                            1l;kjhgf1;alkdssssssssssssssssss
-                            sssssssssssssssssssssssssssssssssssssssssssssss
-                            ssssssssssssssssssssssssssssssssssssssssssssssssss
+                            1l;kjhgf1;alkdsss
+                            sssssssssssssss
+                            sssssssssssssssss
+                            
+                            sssssssssssssss
+                            
+                            
+                            
+                            sssssssssssssss
+                            
+
+
+                            
+                            sssssssssssssssssssssssssssssssss
                             sssssssssssssssssssssssssssssssssssssssssss
                             ssssss
                             
@@ -47,8 +58,28 @@ export default function Student_page() {
 
 
                             ssssssssssssssssssssssssssssssssssssssss
-                            sssssssssssssssssssssssssssssssssssssssss
-                            sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+                            ssssssssssssssss
+
+
+
+
+                            sssssssssssssssssssssssss
+                            ssssssssssssssss
+
+                            sssssssssssssssssssssssss
+                            sssssssssssssssssssssssssssssss
+                            ssssss
+                            sssssssssssssss
+                            sssssssssssss
+                            sssssssssssssss
+
+                            ssssssssss
+                            sssssssssssssssssssss
+                            ss
+                            
+                            ssssssssssssssssss
+                            
+                            sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
             </p>
             </body>
             <Footer />
