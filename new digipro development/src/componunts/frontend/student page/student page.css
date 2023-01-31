@@ -10,7 +10,7 @@
 }
 body{
     height: 800px;
-    width: ;
+    width: auto;
     overflow-y: scroll;
 }
 
