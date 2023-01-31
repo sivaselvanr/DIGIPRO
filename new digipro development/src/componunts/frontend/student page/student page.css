@@ -16,7 +16,7 @@
 .search_field{
     background-color: grey;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
     display: flex;
     /* text-align: center; */
     /* text-align: center; */
