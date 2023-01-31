@@ -31,7 +31,6 @@ function Home() {
 
                 <Router>
                         <Route exact path="/student_page" component={Student_page} />
-                    </Switch>
                 </Router>
 
                 {/* <p>
