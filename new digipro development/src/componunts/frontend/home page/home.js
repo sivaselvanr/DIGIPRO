@@ -13,7 +13,7 @@ import Choose_role from "../choose role/choose role";
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 //importing student_page
-import Studen
+import Student_page
 
 //Home function
 function Home() {
