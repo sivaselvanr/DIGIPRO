@@ -49,7 +49,7 @@ form{
 }
 
 /* search text box */
-.search_text_in_student_page{
+.search_textbox_in_student_page{
     width: 100%;
     height: 100%;
     display: block;
@@ -62,7 +62,7 @@ form{
 }
 
 /* search text box focus */
-.search_text_in_student_page:focus{
+.search_textbox_in_student_page:focus{
     outline: none;
 }
 
