@@ -21,7 +21,7 @@ export default function Student_page() {
 
             {/* student page heading */}
             <h1 className="student_page_heading"><u>Student Information</u></h1>
-            <form>
+            
             <div className="input_fields">
                 <p>
                     <label for="search_in_student_page">search</label>
