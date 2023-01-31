@@ -1,7 +1,7 @@
 .student_page {
     overflow-y: hidden;
 }
-.example::-webkit-scrollbar {
+.::-webkit-scrollbar {
     display: none;
   }
 /* student_page_heading = "Student Information" alignment */
