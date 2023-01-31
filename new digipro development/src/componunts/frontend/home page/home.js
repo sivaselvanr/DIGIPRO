@@ -22,8 +22,6 @@ function Home() {
 
                 {/* displaying choose_role page in home page */}
                 <Choose_role />
-
-                
             </body>
 
             {/* displaying footer in home page */}
