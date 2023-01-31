@@ -6,6 +6,8 @@ import { Routes, Route } from 'react-router-dom';
 //importing index from frontend folder
 import Home from './componunts/frontend/home page/home'
 
+//impor
+
 function App() {
     return (
       <div>
