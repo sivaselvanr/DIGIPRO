@@ -1,7 +1,7 @@
 import React from "react";
 
 //importing BrowserRouter component
-import { BrowserRouter as Router, R} from 'react-router-dom';
+import { BrowserRouter as Router, Route} from 'react-router-dom';
 
 //importing header function
 import Header from "../header/header";
