@@ -17,7 +17,7 @@
 .body{
     height: 500px;
     width: auto;
-    /* overflow-y: scroll; */
+    overflow-y: scroll;
 }
 
 /* from tag */
