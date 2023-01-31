@@ -30,6 +30,7 @@ export default function Student_page() {
                 <p>
                     <input type="search" name="search_in_student_page" id="search_in_student_page"></input>
                 </p>
+                
             </div>
             </body>
             <Footer />
