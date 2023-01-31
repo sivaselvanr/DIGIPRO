@@ -67,6 +67,6 @@ form{
 }
 
 .search_textbox_in_student_page{
-    bo
+    box-sizing: 200px;
 }
 
