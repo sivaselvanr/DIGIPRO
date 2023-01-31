@@ -47,9 +47,9 @@ form{
 
 /* search box */
 .search_box{
-    /* background-color: gray; */
     border-radius: 25px;
     position: relative;
+    /* background-color: gray; */
     /* padding: 5px; */
     /* text-align: center; */
     /* min-width: 240px; */
