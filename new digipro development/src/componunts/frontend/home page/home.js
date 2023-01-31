@@ -31,7 +31,7 @@ function Home() {
 
                 <Router>
                     <Switch>
-                        <Route exact path="/student"
+                        <Route exact path="/student page"
                     </Switch>
                 </Router>
 
