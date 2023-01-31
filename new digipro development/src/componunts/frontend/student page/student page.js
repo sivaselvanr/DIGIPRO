@@ -4,7 +4,7 @@ import React from "react";
 import './student page.css';
 
 //student_page function
-export default function Student_page() {
+export default function Studet_page() {
     return (
         <div className="student_page">
             <h1 className="student_page_head">Student Information</h1>
