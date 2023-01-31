@@ -31,7 +31,7 @@ function Home() {
 
                 <Router>
                     <Switch>
-                        
+                        <Route exact
                     </Switch>
                 </Router>
 
