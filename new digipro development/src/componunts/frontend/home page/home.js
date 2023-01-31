@@ -30,7 +30,6 @@ function Home() {
                 <Choose_role />
 
                 <Router>
-                    <Switch>
                         <Route exact path="/student_page" component={Student_page} />
                     </Switch>
                 </Router>
