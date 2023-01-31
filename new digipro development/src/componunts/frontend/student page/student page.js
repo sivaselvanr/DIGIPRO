@@ -27,8 +27,8 @@ export default function Student_page() {
                 <form>
 
                     {/* search input field and search button to search student details*/}
-                    <div>
-                        <p className="search_field">
+                    <div className="search_field">
+                        <p className="search">
                             <input type="search" name="search_in_student_page" id="search_in_student_page" placeholder="Search..."></input>
                             <button type="submit"><i className="fa fa-search" aria-hidden="true"></i></button>
                         </p>
