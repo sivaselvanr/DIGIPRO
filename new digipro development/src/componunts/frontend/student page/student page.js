@@ -3,7 +3,7 @@ import React from "react";
 //importing student_page.css file
 import './student page.css';
 
-
+//imporiting 
 //student_page function
 export default function Student_page() {
     return (
