@@ -24,9 +24,9 @@
 
 /* search box */
 .search_box{
+    background-color: gray;
     padding: 5px;
     text-align: center;
-    background-color: gray;
     /* min-width: 240px; */
     max-width: 259px;
     width: 30%;
