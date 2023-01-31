@@ -9,7 +9,8 @@ import Header from "../header/header";
 //importing footer function
 import Footer from "../footer/footer"
 
-
+//importing choose_role page
+import Choose_role from "../choose role/choose role";
 
 //importing student_page
 import Student_page from "../student page/student page";
