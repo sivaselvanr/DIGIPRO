@@ -11,7 +11,7 @@ export default function Choose_role() {
     let navigate = useNavigate();
     const routeChange = () =>{
         let path =`./student_page`;
-        navigate
+        navigate(path)
     }
 
     return (
