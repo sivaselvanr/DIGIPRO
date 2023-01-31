@@ -1,5 +1,7 @@
 /* student page */
-.student_page{}
+.student_page{
+    position: relative;
+}
 
 
 /* student_page_heading = "Student Information" alignment */
