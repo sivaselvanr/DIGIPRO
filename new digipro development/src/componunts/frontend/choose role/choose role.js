@@ -1,6 +1,6 @@
 import React from "react";
 
-//importing useNavi package to route home page to login page
+//importing useNavigate package to route home page to login page
 import { useNavigate } from "react-router-dom";
 
 //importing choose role.css file
