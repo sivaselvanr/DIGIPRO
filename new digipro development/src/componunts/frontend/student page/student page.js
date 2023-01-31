@@ -23,9 +23,9 @@ export default function Student_page() {
             <h1 className="student_page_heading"><u>Student Information</u></h1>
 
             <div>
-            <p>
-                <input type="search" name=
-            </p>
+                <p>
+                    <input type="search" name=
+                </p>
             </div>
             </body>
             <Footer />
