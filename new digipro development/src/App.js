@@ -13,7 +13,7 @@ function App() {
     return (
       <div>
 
-        {/* routing to anoter page */}
+        {/* routing to anoter pages */}
         <Routes>
 
           {/* browser url = http://hostname:port */}
