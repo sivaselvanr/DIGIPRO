@@ -1,6 +1,5 @@
-.student_page{
-    /* overflow: fixed; */
-    
+.student_page{:-webkit-scrollbar {
+    display: none;
 }
 /* student_page_heading = "Student Information" alignment */
 .student_page_heading {
