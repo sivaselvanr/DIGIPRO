@@ -13,10 +13,10 @@
 } */
 
 form{
-    /* height: auto; */
+    height: auto;
     display: flex;
     justify-content: center;
-    /* align-items: center; */
+    align-items: center;
     background-color:yellowgreen;
 }
 
