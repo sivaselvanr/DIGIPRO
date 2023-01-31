@@ -9,7 +9,7 @@
 
 /* search field */
 .search_field{
-    
+
 }
 
 /* search field */
@@ -18,7 +18,7 @@
     text-align: center;
     min-width: 250px;
     background-color: grey;
-    /* max-width: 100px; */
-    /* width: 50%; */
+    max-width: 100px;
+    width: 50%;
 
 }
