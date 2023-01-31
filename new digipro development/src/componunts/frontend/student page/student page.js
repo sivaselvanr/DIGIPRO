@@ -4,7 +4,7 @@ import React from "react";
 import './student page.css';
 
 //importing header
-
+import Header from "../header/header";
 
 //importing footer
 //student_page function
