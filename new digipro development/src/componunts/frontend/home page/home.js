@@ -23,7 +23,7 @@ function Home() {
             {/* displaying header in home page */}
             <Header />
 
-            {/* body  */}
+            {/* body tag to show c */}
             <body>
 
                 {/* displaying choose_role page in home page */}
