@@ -34,7 +34,7 @@ export default function Student_page() {
                     </div>
                 </form>
             </div>
-            <body>
+            <body clas>
             <p>
             Instant search was announced in September 2010 as a feature that displayed suggested results while the user typed in their search query, initially only in select countries or to registered users.[108] The primary advantage of the new system was its ability to save time, with Marissa Mayer, then-vice president of search products and user experience, proclaiming that the feature would save 2–5 seconds per search, elaborating that "That may not seem like a lot at first, but it adds up. With Google Instant, we estimate that we'll save our users 11 hours with each passing second!"[109] Matt Van Wagner of Search Engine Land wrote that "Personally, I kind of like Google Instant and I think it represents a natural evolution in the way search works", and also praised Google's efforts in public relations, writing that "With just a press conference and a few well-placed interviews, Google has parlayed this relatively minor speed improvement into an attention-grabbing front-page news story".[110] The upgrade also became notable for the company switching Google Search's underlying technology from HTML to AJAX.[111]
 
