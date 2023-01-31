@@ -1,14 +1,10 @@
 import React from "react";
 
-//importing useHistory package to route home page to login page
-import { useHistory } from "react-router-dom";
-
 //importing choose role.css file
 import "./choose role.css";
 
 //choose role function
 export default function Choose_role() {
-    let history =
     return (
         <div className="choose_role">
 
@@ -19,7 +15,7 @@ export default function Choose_role() {
             <div className="choose_role_buttons">
 
                 {/* button for sutdent */}
-                <button className="student_button">Student</button>
+                <button className="student_button" onClick={routeChange}>Student</button>
                 
                 {/* button for tutor */}
                 <button className="tutor_button">Tutor</button>
