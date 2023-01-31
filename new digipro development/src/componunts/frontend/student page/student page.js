@@ -24,7 +24,7 @@ export default function Student_page() {
 
             <div className="input_fields">
                 <p>
-                    <input type="search" name=""
+                    <input type="search" name="s"
                 </p>
             </div>
             </body>
