@@ -29,7 +29,7 @@ function Home() {
                 {/* displaying choose_role page in home page */}
                 <Choose_role />
 
-                <Router>
+                <Routes>
                         <Route exact path="/student_page" element={Student_page} />
                 </Router>
 
