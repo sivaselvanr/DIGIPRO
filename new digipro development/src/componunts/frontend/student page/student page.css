@@ -13,6 +13,7 @@
 form{
     /* height: 10vh; */
     display: flex;
+    position: fixed;
     justify-content: center;
     align-items: center;
     background-color:yellowgreen;
