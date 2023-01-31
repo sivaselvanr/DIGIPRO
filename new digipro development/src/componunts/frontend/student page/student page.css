@@ -15,7 +15,7 @@
 /* search field */
 .search_field{
     width: 50%;
-    min-width: none;
+    min-width: 250px;
     /* justify-content: center; */
     /* display: flex; */
     /* background-color: grey; */
