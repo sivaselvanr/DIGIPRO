@@ -8,7 +8,7 @@ import "./choose role.css";
 
 //choose role function
 export default function Choose_role() {
-    let history = useHistory
+    let history = useHistory()
     return (
         <div className="choose_role">
 
