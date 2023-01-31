@@ -17,7 +17,7 @@ function App() {
           {/* browser url = http://hostname:port */}
           <Route path="/" element={<Home />} />
 
-          {/* browser url = http://hostname */}
+          {/* browser url = http://hostname:po */}
           <Route path='/student page' element={<Student_page />} />
         </Routes>
       </div>
