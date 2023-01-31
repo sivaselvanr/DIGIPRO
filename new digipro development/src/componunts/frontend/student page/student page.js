@@ -22,6 +22,7 @@ export default function Student_page() {
             {/* student page heading */}
             <h1 className="student_page_heading"><u>Student Information</u></h1>
 
+            
             <input type=
 
             </body>
