@@ -30,7 +30,7 @@ function Home() {
                 <Choose_role />
 
                 <Router>
-                        <Route exact path="/student_page" ={Student_page} />
+                        <Route exact path="/student_page" element={Student_page} />
                 </Router>
 
                 {/* <p>
