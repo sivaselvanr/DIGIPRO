@@ -14,9 +14,9 @@
 
 /* search field */
 .search_field{
-    background-color: grey;
     justify-content: center;
     display: flex;
+    /* background-color: grey; */
     /* align-items: center; */
     /* text-align: center; */
     /* text-align: center; */
