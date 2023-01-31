@@ -7,6 +7,7 @@ import './student page.css';
 import Header from "../header/header";
 
 //importing footer
+import Footer from "../footer/footer";
 //student_page function
 export default function Student_page() {
     return (
