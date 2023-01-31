@@ -1,11 +1,6 @@
 .student_page {
     overflow-y: hidden;
 }
-.student_page::-webkit-scrollbar {
-    display: none;
-    -ms-overflow-style: none;  /* IE and Edge */
-    scrollbar-width: none;  /* Firefox */
-}
 
 /* student_page_heading = "Student Information" alignment */
 .student_page_heading {
