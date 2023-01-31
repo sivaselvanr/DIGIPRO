@@ -12,7 +12,7 @@
 
 form{
     /* height: 10vh; */
-    displa
+    display: block;
     justify-content: center;
     align-items: center;
     background-color:yellowgreen;
