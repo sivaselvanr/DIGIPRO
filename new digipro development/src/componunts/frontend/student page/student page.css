@@ -14,7 +14,7 @@
 
 form{
     height: auto;
-    display: flex;
+    /* display: flex; */
     justify-content: center;
     /* align-items: center; */
     background-color:yellowgreen;
