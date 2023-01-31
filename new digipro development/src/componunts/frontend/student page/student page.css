@@ -89,11 +89,6 @@ form{
     font-size: 18px;
 }
 
-/*  */
-.search_button_in_student_page i{
-    color: rgb(93, 94, 95);
-}
-
 button:hover i{
     color: rgb(162, 163, 163);
 }
