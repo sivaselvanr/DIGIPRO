@@ -16,7 +16,7 @@ function App() {
         {/* routing to anoter page */}
         <Routes>
 
-          {/*  */}
+          {/* Home page */}
           {/* browser url = http://hostname:port */}
           <Route path="/" element={<Home />} />
 
