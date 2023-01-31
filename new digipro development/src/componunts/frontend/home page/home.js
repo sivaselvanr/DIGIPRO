@@ -13,7 +13,7 @@ import Footer from "../footer/footer"
 import Student_page from "../student page/student page";
 
 //importing choose_role page
-import Cho
+import Choose_role from "../choose role/choose role";
 
 //Home function
 function Home() {
