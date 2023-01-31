@@ -8,7 +8,7 @@ import "./choose role.css";
 
 //choose role function
 export default function Choose_role() {
-    let hi
+    let hist
     return (
         <div className="choose_role">
 
