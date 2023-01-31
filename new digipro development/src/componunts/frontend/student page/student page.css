@@ -74,6 +74,7 @@ form{
     height: 100%;
     border-radius: 50%;
     cursor: pointer;
-    bor
+    border: none;
+    
 }
 
