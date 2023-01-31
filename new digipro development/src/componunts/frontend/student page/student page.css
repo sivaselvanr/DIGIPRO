@@ -23,7 +23,7 @@ form{
 /* search field */
 .search_field{
     width: 50%;
-    min-width: 20px;
+    min-width: 250px;
     max-width: 200px;
     height: 180px;
     text-align: center;
