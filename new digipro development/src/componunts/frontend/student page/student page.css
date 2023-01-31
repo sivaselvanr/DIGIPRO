@@ -10,7 +10,7 @@
 /* search field  */
 .search_field{
     padding-top: 20px;
-    /* text-align: center; */
+    text-align: center;
     min-width: 250px;
     max-width: 300px;
     /* width: 50%; */
