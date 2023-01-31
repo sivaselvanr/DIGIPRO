@@ -57,7 +57,7 @@ form{
     font-size: 15px;
     padding: 8px 4px 8px 20px;
     border: none;
-    /* box-shadow: 0 5px 8px 3px black; */
+    box-shadow: 0 5px 8px 3px black;
     /* background-color: brown; */
 }
 
