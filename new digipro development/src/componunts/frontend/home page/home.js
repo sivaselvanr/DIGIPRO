@@ -29,6 +29,10 @@ function Home() {
                 {/* displaying choose_role page in home page */}
                 <Choose_role />
 
+                <Routes>
+                        <Route path="/student page" element={<Student_page />} />
+                </Routes>
+
                 {/* <p>
                 Google was initially funded by an August 1998 investment of $100,000 from Andy Bechtolsheim,[20] co-founder of Sun Microsystems. This initial investment served as a motivation to incorporate the company to be able to use the funds.[39][40] Page and Brin initially approached David Cheriton for advice because he had a nearby office in Stanford, and they knew he had startup experience, having recently sold the company he co-founded, Granite Systems, to Cisco for $220 million. David arranged a meeting with Page and Brin and his Granite co-founder Andy Bechtolsheim. The meeting was set for 8 AM at the front porch of David's home in Palo Alto and it had to be brief because Andy had another meeting at Cisco, where he now worked after the acquisition, at 9 AM. Andy briefly tested a demo of the website, liked what he saw, and then went back to his car to grab the check. David Cheriton later also joined in with a $250,000 investment.[41][42]
 
