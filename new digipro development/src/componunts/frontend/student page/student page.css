@@ -16,10 +16,10 @@
 .search_field{
     /* text-align: center; */
     background-color: grey;
-    /* text-align: center; */
     justify-content: center;
     align-items: center;
     display: flex;
+    /* text-align: center; */
 
 }
 
