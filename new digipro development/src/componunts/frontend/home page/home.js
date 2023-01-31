@@ -79,7 +79,7 @@ Between these initial investors, friends, and family Google raised around $1,000
 After some additional, small investments through the end of 1998 to early 1999,[43] a new $25 million round of funding was announced on June 7, 1999,[49] with major investors including the venture capital firms Kleiner Perkins and Sequoia Capital.[40] Both firms were initially reticent about investing jointly in Google, as each wanted to retain a larger percentage of control over the company to themselves. Larry and Sergey however insisted in taking investments from both. Both venture companies finally agreed to investing jointly $12.5 million each due to their belief in Google's great potential and through mediation of earlier angel investors Ron Conway and Ram Shriram who had contacts in the venture companies.[50]
 
                 </p> */}
-            {/* </body> */}
+            </body>
 
             {/* displaying footer in home page */}
             <Footer />
