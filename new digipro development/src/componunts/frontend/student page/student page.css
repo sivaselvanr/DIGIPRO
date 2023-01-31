@@ -26,7 +26,7 @@
 .search_box{
     padding: 5px;
     text-align: center;
-    min-width: 250px;
+    /* min-width: 250px; */
     background-color: rgb(14, 7, 7);
     max-width: 100px;
     width: 50%;
