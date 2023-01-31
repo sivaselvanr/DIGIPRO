@@ -30,7 +30,7 @@ function Home() {
                 <Choose_role />
 
                 <Routes>
-                        <Route path="/student page" element={<Student_page />} />
+                        <Route path="/student_page" element={<Student_page />} />
                 </Routes>
 
                 {/* <p>
