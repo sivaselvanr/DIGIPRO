@@ -1,6 +1,6 @@
 import React from "react";
 
-//importing useHistory pac
+//importing useHistory package
 
 //importing choose role.css file
 import "./choose role.css";
