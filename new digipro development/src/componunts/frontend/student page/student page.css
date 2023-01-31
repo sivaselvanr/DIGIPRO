@@ -8,7 +8,7 @@
 }
 
 /* search field  */
-.search_box
+.search_box{
     padding-top: 20px;
     text-align: center;
     min-width: 250px;
