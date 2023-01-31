@@ -13,7 +13,7 @@ import Choose_role from "../choose role/choose role";
 import { Routes, Route } from 'react-router-dom';
 
 //importing student_page
-import Student_page from "../student page/student page"
+// import Student_page from "../student page/student page"
 
 //Home function
 export default function Home() {
