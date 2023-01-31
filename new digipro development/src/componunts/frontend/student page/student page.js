@@ -26,10 +26,10 @@ export default function Student_page() {
             <div className="input_field">
                 <form>
 
-                {/* search input field */}
-                <p>
-                    <input type="search" name="search_in_student_page" id="search_in_student_page"></input>
-                </p>
+                    {/* search input field */}
+                    <p>
+                        <input type="search" name="search_in_student_page" id="search_in_student_page"></input>
+                    </p>
                 </form>
             </div>
             </body>
