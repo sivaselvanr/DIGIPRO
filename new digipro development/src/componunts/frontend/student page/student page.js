@@ -24,7 +24,7 @@ export default function Student_page() {
             
             {/* input field */}
             <div className="input_field">
-                <form></form>
+                <form>
 
                 {/* search input field */}
                 <p>
