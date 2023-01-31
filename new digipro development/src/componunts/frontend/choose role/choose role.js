@@ -1,7 +1,7 @@
 import React from "react";
 
 //importing useHistory package to route home page to login page
-// import { useHistory } from "react-router-dom";
+import { useHistory } from "react-router-dom";
 
 //importing choose role.css file
 import "./choose role.css";
