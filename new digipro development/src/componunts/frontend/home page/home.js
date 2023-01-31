@@ -1,7 +1,7 @@
 import React from "react";
 
 //importing BrowserRouter component
-import { BrowserRouter as Router, Route, S {
+import { BrowserRouter as Router, Route, Switch {
     case value:
         
         break;
