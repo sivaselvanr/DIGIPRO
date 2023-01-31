@@ -88,7 +88,7 @@ After some additional, small investments through the end of 1998 to early 1999,[
 }
 export default Home;
 
-function App() {
+function () {
     return (
       <div>
         <Routes>
