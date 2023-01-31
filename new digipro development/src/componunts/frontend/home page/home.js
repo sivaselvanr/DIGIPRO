@@ -30,7 +30,7 @@ function Home() {
                 <Choose_role />
 
                 <Router>
-                    
+                    <Switch
                 </Router>
 
                 {/* <p>
