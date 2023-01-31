@@ -7,7 +7,9 @@
     font-weight: 800;
 
 }
-body
+body{
+    overflow: ;
+}
 
 form{
     /* height: 10vh; */
