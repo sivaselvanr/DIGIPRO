@@ -16,7 +16,7 @@
 .search_field{
     justify-content: center;
     display: flex;
-    
+
     /* background-color: grey; */
     /* align-items: center; */
     /* text-align: center; */
@@ -27,8 +27,8 @@
 .search_box{
     padding: 5px;
     text-align: center;
-    min-width: 250px;
     background-color: gray;
+    min-width: 250px;
     max-width: 100px;
     width: 50%;
 }
