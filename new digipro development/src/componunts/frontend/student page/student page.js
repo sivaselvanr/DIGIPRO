@@ -30,7 +30,7 @@ export default function Student_page() {
                     <div className="search_field">
                         <p className="search_box">
                             <input type="search" className="search_textbox_in_student_page" name="search_textbox_in_student_page" id="search_textbox_in_student_page" placeholder="Search..."></input>
-                            <button type="submit"><i className="fa fa-search search_button_in_student_page" ></i></button>
+                            <button type="submit"><i className="fa fa-search search_button_in_student_page" aria-hidden="true"></i></button>
                         </p>
                     </div>
                 </form>
