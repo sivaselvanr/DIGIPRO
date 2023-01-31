@@ -29,7 +29,7 @@ export default function Student_page() {
                     {/* search input field */}
                     <p>
                         <input type="search" name="search_in_student_page" id="search_in_student_page" placeholder="Search..."></input>
-                        <button type="submit"><i className="submit_to_search" aria-</button>
+                        <button type="submit"><i className="submit_to_search" aria-hidden=</button>
                     </p>
                 </form>
             </div>
