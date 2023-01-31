@@ -1,4 +1,5 @@
-.student_pag
+.student_page{
+    overflow:inherit;==
 }
 /* student_page_heading = "Student Information" alignment */
 .student_page_heading {
