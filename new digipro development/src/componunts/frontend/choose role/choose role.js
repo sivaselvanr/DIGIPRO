@@ -1,15 +1,10 @@
 import React from "react";
 
-//importing useNavigate package to route home page to login page
-import { useNavigate } from "react-router-dom";
-
 //importing choose role.css file
 import "./choose role.css";
 
 //choose role function
 export default function Choose_role() {
-
-
     return (
         <div className="choose_role">
 
