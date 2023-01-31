@@ -87,3 +87,7 @@ After some additional, small investments through the end of 1998 to early 1999,[
     );
 }
 export default Home;
+
+<Routes>
+<Route path="/student_page" element={<Student_page />} />
+</Routes>
