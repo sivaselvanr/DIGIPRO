@@ -22,7 +22,7 @@ export default function Student_page() {
             {/* student page heading */}
             <h1 className="student_page_heading"><u>Student Information</u></h1>
             
-            {/* input fi */}
+            {/* input field */}
             <div className="input_fields">
 
                 {/* search input field */}
