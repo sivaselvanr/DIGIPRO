@@ -1,6 +1,9 @@
 .student_page {
     overflow-y: hidden;
 }
+.example::-webkit-scrollbar {
+    display: none;
+  }
 /* student_page_heading = "Student Information" alignment */
 .student_page_heading {
     text-align: center;
