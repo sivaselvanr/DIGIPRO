@@ -20,7 +20,7 @@ export default function Student_page() {
             <body>
 
             {/* student page heading */}
-            <h1 className="student_page_heading"><u>Student Information</h1>
+            <h1 className="student_page_heading"><u>Student Information</u></h1>
 
             </body>
             <Footer />
