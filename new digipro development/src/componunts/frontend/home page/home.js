@@ -1,6 +1,5 @@
 import React from "react";
 
-
 //importing header function
 import Header from "../header/header";
 
