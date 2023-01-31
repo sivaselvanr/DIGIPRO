@@ -15,6 +15,7 @@ export default function Student_page() {
         <div className="student_page">
             <Header />
             <h1 className="student_page_head">Student Information</h1>
+            
 
         </div>
     );
