@@ -88,6 +88,15 @@ After some additional, small investments through the end of 1998 to early 1999,[
 }
 export default Home;
 
-<Routes>
-<Route path="/student_page" element={<Student_page />} />
-</Routes>
+function App() {
+    return (
+      <div>
+        <Routes>
+
+          {/* browser url = http://hostname:port */}
+          <Route path="/" element={<Home />} />
+          <Route path='/student page' element={<Student_page />} />
+        </Routes>
+      </div>
+    );
+}
