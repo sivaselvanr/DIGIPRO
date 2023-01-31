@@ -28,7 +28,7 @@ export default function Student_page() {
 
                     {/* search input field */}
                     <p>
-                        <input type="search" name="search_in_student_page" id="search_in_student_page" ></input>
+                        <input type="search" name="search_in_student_page" id="search_in_student_page" p></input>
                     </p>
                 </form>
             </div>
