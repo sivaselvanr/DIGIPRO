@@ -4,6 +4,9 @@ import React from "react";
 import './student page.css';
 
 //importing header
+
+
+//importing footer
 //student_page function
 export default function Student_page() {
     return (
