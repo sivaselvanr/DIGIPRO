@@ -1,4 +1,4 @@
-.student_page::-webkit-s {
+.student_page::-webkit-scrollbar {
     display: none;
 }
 /* student_page_heading = "Student Information" alignment */
