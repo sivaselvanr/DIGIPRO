@@ -9,7 +9,7 @@ import "./choose role.css";
 //choose role function
 export default function Choose_role() {
     let navigate = useNavigate();
-    const routeChange = () =>{let path =''}
+    const routeChange = () =>{let path =``}
 
     return (
         <div className="choose_role">
