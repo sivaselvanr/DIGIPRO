@@ -8,6 +8,7 @@ import "./choose role.css";
 
 //choose role function
 export default function Choose_role() {
+    
     return (
         <div className="choose_role">
 
