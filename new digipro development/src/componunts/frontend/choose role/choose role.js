@@ -11,7 +11,6 @@ export default function Choose_role() {
     let navigate = useNavigate();
     const routeChange = () =>{
         let path =`./student_page`;
-        navigate(path);
     }
 
     return (
@@ -24,7 +23,7 @@ export default function Choose_role() {
             <div className="choose_role_buttons">
 
                 {/* button for sutdent */}
-                <button className="student_button" onClick={routeChange}Student</button>
+                <button className="student_button" onClick={() => {history.push("/student_page");}}>Student</button>
                 
                 {/* button for tutor */}
                 <button className="tutor_button">Tutor</button>
