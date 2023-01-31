@@ -15,7 +15,7 @@
 
 /* inside body scrolling */
 .body{
-    height: 800px;
+    height: auto;
     width: auto;
     overflow-y: scroll;
 }
