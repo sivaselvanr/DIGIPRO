@@ -19,7 +19,7 @@ export default function Student_page() {
             
             {/* student page heading */}
             <h1 className="student_page_heading">Student Information</h1>
-            <body className="bode">
+            <body className="body">
             
             {/* input field */}
             <div className="input_fields">
