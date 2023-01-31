@@ -12,6 +12,8 @@
     background-color: rgb(221, 61, 61);
 } */
 
+.f
+
 /* search field */
 .search_field{
     width: 50%;
@@ -19,7 +21,7 @@
     max-width: 300px;
     height: 180px;
     text-align: center;
-    
+
     /* justify-content: center; */
     /* display: flex; */
     /* background-color: grey; */
