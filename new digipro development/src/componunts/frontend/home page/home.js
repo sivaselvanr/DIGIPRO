@@ -10,7 +10,7 @@ import Footer from "../footer/footer"
 import Choose_role from "../choose role/choose role";
 
 //importing BrowserRouter component
-import { Router, Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 
 //importing student_page
 import Student_page from "../student page/student page"
