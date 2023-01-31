@@ -16,7 +16,7 @@ import { Routes, Route } from 'react-router-dom';
 import Student_page from "../student page/student page"
 
 //Home function
-function Home() {
+export default function Home() {
     return (
         <div className="index" >
 
