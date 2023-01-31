@@ -37,13 +37,3 @@ function Home() {
     );
 }
 export default Home;
-
-function routeChange() {
-    return (
-      <div>
-        <Routes>
-          <Route path='/student page' element={<Student_page />} />
-        </Routes>
-      </div>
-    );
-}
