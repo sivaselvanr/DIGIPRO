@@ -19,7 +19,7 @@ export default function Choose_role() {
             <div className="choose_role_buttons">
 
                 {/* button for sutdent */}
-                <button className="student_button" >Student</button>
+                <button className="student_button" onC>Student</button>
                 
                 {/* button for tutor */}
                 <button className="tutor_button">Tutor</button>
