@@ -1,6 +1,5 @@
 .student_page::-webkit-scrollbar {
-    
-    display: none;
+    overflow: hidden;
 }
 /* student_page_heading = "Student Information" alignment */
 .student_page_heading {
