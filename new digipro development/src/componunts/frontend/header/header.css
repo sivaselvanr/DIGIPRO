@@ -66,7 +66,7 @@
 .title_card {
     padding: 3px ;
     color:transparent;-webkit-text-stroke:1px #fff;
-    /* background: url(/src/componunts/frontend/assets/digipro\ header\ title\ card\ background.png);-webkit-background-clip:text; */
+    background: url(/src/componunts/frontend/assets/digipro\ header\ title\ card\ background.png);-webkit-background-clip:text;
     animation:title_card 20s linear infinite;
      /* text-align: center; */
      /* background-color:purple; */
