@@ -1,6 +1,6 @@
 import React from "react";
 
-//
+//import
 
 //importing choose role.css file
 import "./choose role.css";
