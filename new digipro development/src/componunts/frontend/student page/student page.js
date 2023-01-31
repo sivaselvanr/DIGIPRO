@@ -32,6 +32,7 @@ export default function Student_page() {
                             <input type="search" className="search_textbox_in_student_page" name="search_textbox_in_student_page" id="search_textbox_in_student_page" placeholder="Search..."></input>
                             <button type="submit" className="fa fa-search search_button_in_student_page" aria-hidden="true"></button>
                         </p>
+                        <
                     </div>
                 </form>
             </div>
