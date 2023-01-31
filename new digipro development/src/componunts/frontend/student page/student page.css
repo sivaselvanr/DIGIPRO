@@ -9,16 +9,16 @@
 
 /* search field */
 .search_field{
-    max-width: 100px;
-    width: 50%;
-    min-width: 250px;
+
 }
 
 /* search field */
 .search_box{
     padding-top: 20px;
     text-align: center;
+    min-width: 250px;
     background-color: grey;
-
+    max-width: 100px;
+    width: 50%;
 
 }
