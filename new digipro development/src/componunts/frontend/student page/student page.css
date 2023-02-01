@@ -36,7 +36,7 @@
     border: 1px;
     border-radius: 10px 0px 0px 10px;
     border-bottom: #5bc1df;
-    background-color: grey;
+    background-color: rgb(235, 235, 235);
 }
 #SearchBox:focus{
     transition: all 0.5s;
