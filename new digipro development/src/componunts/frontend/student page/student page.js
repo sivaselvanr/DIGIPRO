@@ -20,8 +20,14 @@ export default function Student_page() {
             {/* student page heading */}
             <h1 className="student_page_heading">Student Information</h1>
                         
-            {/* back to top button */}
-            <button id="back_to_top"></button>
+            <!-- Back to top button -->
+<button
+        type="button"
+        class="btn btn-danger btn-floating btn-lg"
+        id="btn-back-to-top"
+        >
+  <i class="fas fa-arrow-up"></i>
+</button>
             {/* <script>
             var btn = $('#button');
 
