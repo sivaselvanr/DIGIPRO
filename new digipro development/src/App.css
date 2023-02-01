@@ -5,4 +5,6 @@
     background-color: var(--black);
     background-color: rgb(255, 120, 255);
 }
-::-webkit-scrollbar
+::-webkit-scrollbar-thumb{
+    
+}
