@@ -434,7 +434,6 @@ export default function Student_page() {
 
                 </p>
             </body>
-            <Footer />
         </div>
     );
 }
