@@ -23,7 +23,9 @@
 }
 
 /* search box and search button alignment */
-.Search
+.SearchBoxButton{
+    
+}
 #SearchBox{
     border: none;
     background-color: grey;
