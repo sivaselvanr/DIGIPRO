@@ -79,7 +79,7 @@ export default function Student_page() {
 
             Instant Search could be disabled via Google's "preferences" menu for those who didn't want its functionality.[112]
 
-            The publication 2600: The Hacker Quarterly compiled a list of words that Google Instant did not show suggested results for, with a Google spokesperson giving the following statement to Mashable:[113]
+            The publication 2600: The H<p></p>acker Quarterly compiled a list of words that Google Instant did not show suggested results for, with a Google spokesperson giving the following statement to Mashable:[113]
 
             There are several reasons you may not be seeing search queries for a particular topic. Among other things, we apply a narrow set of removal policies for pornography, violence, and hate speech. It's important to note that removing queries from Autocomplete is a hard problem, and not as simple as blacklisting particular terms and phrases.
 
