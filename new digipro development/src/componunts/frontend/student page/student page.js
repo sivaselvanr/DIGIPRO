@@ -18,7 +18,7 @@ export default function Student_page() {
                 {/* student page heading */}
                 <h1 className="StudentPageHeading">Student Information</h1>
                             
-                {/* input  */}
+                {/* input field */}
                 <form className="In">
                     <div className="SearchBoxAndButton">
                         <input type="search" id="SearchBox" name="q" placeholder="Search..."/>
