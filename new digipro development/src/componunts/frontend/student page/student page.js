@@ -17,7 +17,7 @@ export default function Student_page() {
             {/* displaying header in student page */}
             <Header />
 
-                        {/* Back to top button */}
+            {/* Back to top button */}
                         <button
                     type="button"
                     class="btn btn-danger btn-floating btn-lg"
