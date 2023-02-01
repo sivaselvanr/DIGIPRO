@@ -6,7 +6,7 @@
     max-height: fit-content;
     z-index: 100px;
     padding-bottom: 10px;
-    box-shadow: 0px 25x 100px;
+    box-shadow: 0px 25x 100px 10px;
     /* background-color: whitesmoke; */
     /* opacity: 1.0; */
     /* display: visibility; */
