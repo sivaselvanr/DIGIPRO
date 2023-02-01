@@ -54,7 +54,7 @@
     height: 40px;
     width: 40px;
 }
-#Search:hover,
+#SearchButton:hover,
 .button:active,
 .button:focus {
   cursor: pointer;
