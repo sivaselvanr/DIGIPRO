@@ -26,6 +26,9 @@
     background-color: bisque;;
     transition: background-color 0.1s; 
     transform: scale(0.98,0.98);
+    transform:scale(1.1,1.1);
+    transition: all 0.50s;
+    transition-timing-function:cubic-bezier(0.5, 3, 0, 1);
 }
 #BackToTopButton:focus{
     outline: none;
