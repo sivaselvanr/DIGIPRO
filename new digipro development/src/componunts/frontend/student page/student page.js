@@ -27,7 +27,6 @@ export default function Student_page() {
                             </svg>
                         </button>
                     </div>
-
                 </form>
             </div>
 
