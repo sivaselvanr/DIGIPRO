@@ -2,7 +2,7 @@ import React from "react";
 import { useEffect, useState } from "react";
 
 //importing css file
-import BackT
+import BackToTopButton
 
 export default function BackToTopButton () {
     const [backToTopButton, setBackToTopButton] = useState(false);
