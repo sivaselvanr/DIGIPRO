@@ -26,8 +26,8 @@
 /* StudentpageTable  */
 .StudentPageTable{
     padding-top: 8%;
-    top: 0;
     position:sticky;
+    top: 0;
     /* scroll-padding-top: 50%; */
     /* z-index:1; */
 }
