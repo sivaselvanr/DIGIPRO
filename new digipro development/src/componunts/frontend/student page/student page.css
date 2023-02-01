@@ -59,7 +59,7 @@
     transition: background-color 0.5s;
 }
 #SearchButton{
-    back
+    background-color: ;
 }
 #SearchButton:focus {
   cursor: pointer;
