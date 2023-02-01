@@ -33,10 +33,7 @@ function App() {
           {/* browser url = http://hostname:port/student page */}
           <Route path='/student page' element={<Student_page />} />
         </Routes>
-
-        {/* to go top */}
-        {/* <GoToTop /> */}
-        <BackToTopButton />
+        
         {/* displaying footer in all page */}
         <Footer />
       </div>
