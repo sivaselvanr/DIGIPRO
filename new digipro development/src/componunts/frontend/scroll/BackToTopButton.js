@@ -24,4 +24,6 @@ export default function BackToTopButton () {
     return (
         <div className="top-btn" onClick={}
     );
-}
+}            {backToTopButton && (
+                <FaArrowUp className="top-btn--icon" />
+            )}
