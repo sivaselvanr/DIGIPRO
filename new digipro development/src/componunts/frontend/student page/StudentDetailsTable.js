@@ -409,6 +409,7 @@ export default function StudentDetailsTable(){
 
                 </p>
             </body>
+            <BackToTopButton
         </div>
     );
 }
