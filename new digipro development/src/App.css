@@ -3,11 +3,11 @@
 }
 ::-webkit-scrollbar-track{
     background-color: var(--black);
-    background-color: rgba(255, 120, 255);
+    /* background-color: rgba(255, 120, 255); */
     background-color: transparent;
 }
 ::-webkit-scrollbar-thumb{
-    background-color: aliceblue;
+    /* background-color: aliceblue; */
     border-radius: 1em;
     border: 2rem solid transparent;
     /* background-clip:content-box; */
