@@ -17,6 +17,7 @@ export default function Student_page() {
             {/* displaying header in student page */}
             <Header />
             
+            
             {/* student page heading */}
             <h1 className="student_page_heading">Student Information</h1>
                         
