@@ -33,7 +33,7 @@
     width: 100%;
     height: 100%;
     overflow: hidden;
-    scrollbar-gutter: stable both-edges;
+    /* scrollbar-gutter: stable both-edges; */
     /* scrollbar-color: red; */
     /* scroll-margin-block-end: 200px; */
 }
