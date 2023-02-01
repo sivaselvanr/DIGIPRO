@@ -16,7 +16,7 @@ export default function BackToTopButton () {
 
     const scrollUp = () => {
         window.scrollTo(
-            top
+            top: 0;
         )
     }
 
