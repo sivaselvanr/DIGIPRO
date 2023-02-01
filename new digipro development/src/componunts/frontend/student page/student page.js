@@ -22,7 +22,7 @@ export default function Student_page() {
                 <div class="input-group">
                     <p>
                     <input type="search" id="gsearch" name="gsearch">
-  <input type="submit">
+                    <input type="submit">
                     </p>
                 </div>
 
