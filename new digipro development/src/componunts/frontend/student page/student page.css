@@ -13,7 +13,7 @@
 .StudentPageTable{
     scroll-padding-top: 50%;
     padding-top: 8%;
-    overflow-y: ;
+    overflow-y: hidden;
 }
 /* student full page */
 .student_page {
