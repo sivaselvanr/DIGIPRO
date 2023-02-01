@@ -14,7 +14,6 @@ import Footer from "../footer/footer";
 
 //student_page function
 export default function Student_page() {
-
     
     return (
         <div className="student_page">
