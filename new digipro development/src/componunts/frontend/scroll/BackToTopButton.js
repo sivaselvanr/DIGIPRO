@@ -1,7 +1,7 @@
 import React from "react";
 import { useEffect, useState } from "react";
 
-function BackToTopButton() {
+export default function BackToTopButton() {
     const [backToTopButton, serBackToTopButton] = useState(false);
     return (
         <div className="App"></div>;
