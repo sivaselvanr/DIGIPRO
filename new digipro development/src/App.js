@@ -12,7 +12,7 @@ import Student_page from './componunts/frontend/student page/student page';
 //importing header
 import Header from './componunts/frontend/header/header';
 
-//importing foo
+//importing footer
 
 function App() {
     return (
