@@ -5,7 +5,7 @@
 
 /* StudentDetailsTable page height limiting and hide scrollbar */
 .StudentDetailsTable{
-    padding-top: ;
+    padding-top: 10%;
     width: auto;
     height: 800px;
     overflow-y: visible;
