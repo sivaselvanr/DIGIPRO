@@ -38,7 +38,7 @@
     background-color: grey;
 }
 #SearchBox:focus{
-    tra
+    transition: ;
 }
 #SearchButton{
     border: none;
