@@ -35,6 +35,8 @@ function backToTop() {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
 
+
+  
 //student_page function
 export default function Student_page() {
     return (
