@@ -21,7 +21,7 @@ export default function Student_page() {
                 {/* input field */}
                 <div class="search">
                           <i class="fa fa-search"></i>
-                          <input type="text" class="form-control" placeholder="Have a question? Ask Now"></input>
+                          <input type="search" class="form-control" placeholder="Have a question? Ask Now"></input>
                           <button class="btn btn-primary">Search</button>
                 </div>
             </div>
