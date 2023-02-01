@@ -22,21 +22,8 @@ function App() {
 
           {/* Student page */}
           {/* browser url = http://hostname:port/student page */}
-          <Route path='/student page' element={<Student_page />} />
+          {/* <Route path='/student page' element={<Student_page />} /> */}
         </Routes>
-        <p>
-          ajdf;akjsdf;advantage
-          Adfa
-          defaultadf
-          Adf
-          as
-          df
-          akjsdfa
-          defaultadfdf
-          Adfaa
-          faaf
-          
-        </p>
       </div>
     );
 }
