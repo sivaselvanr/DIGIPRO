@@ -15,7 +15,7 @@ import Header from './componunts/frontend/header/header';
 //importing footer
 import Footer from './componunts/frontend/footer/footer';
 
-//importing 
+//importing Got
 
 function App() {
     return (
