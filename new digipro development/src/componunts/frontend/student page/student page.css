@@ -13,7 +13,7 @@
 /* page Heading and Input group alignment */
 .HeadAndInput{
     margin-top: 3%;
-    position: relative;
+    position: sticky;
 }
 
 /* StudentPageHeading align to center */
