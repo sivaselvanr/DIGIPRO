@@ -15,7 +15,7 @@
     margin-top: 3%;
     position: sticky;
     top: 200px;
-    o
+    overflow: hidden;
 }
 
 /* StudentPageHeading align to center */
