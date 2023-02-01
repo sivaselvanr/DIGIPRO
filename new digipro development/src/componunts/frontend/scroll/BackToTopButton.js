@@ -23,7 +23,7 @@ export default function BackToTopButton () {
 
     return (
         <div className="BackToTopButton">
-            <button className="BackTo"
+            <button className="BackToTopButton"
         </div>
     );
 }            
