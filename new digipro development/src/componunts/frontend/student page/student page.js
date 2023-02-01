@@ -3,7 +3,7 @@ import React from "react";
 //importing student_page.css file
 import './student page.css';
 
-//impri
+//impriting 
 //importing Back To Top Button
 import BackToTopButton from "../scroll/BackToTopButton";
 
