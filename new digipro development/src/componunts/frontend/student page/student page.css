@@ -58,7 +58,7 @@ HeadAndInput{
 } */
 
 /* search text box */
-.search_textbox_in_student_page{
+/* .search_textbox_in_student_page{
     width: 100%;
     height: 30px;
     display: block;
@@ -67,7 +67,7 @@ HeadAndInput{
     padding: 8px 4px 8px 20px;
     border: none;
     box-shadow: 0 5px 8px 3px black;
-}
+} */
 
 /* search text box focus */
 /* .search_textbox_in_student_page:focus{
