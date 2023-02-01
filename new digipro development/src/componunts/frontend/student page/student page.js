@@ -22,7 +22,7 @@ export default function Student_page() {
                         
             {/* back to top button */}
             <a id="button"></a>
-            <scrp
+            <script></script>
            var btn = $('#button');
 
             $(window).scroll(function() {
