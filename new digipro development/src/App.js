@@ -1,6 +1,6 @@
 import React from 'react';
 
-import 
+import './A'
 
 // importing components from react-router-dom package
 import { Routes, Route } from 'react-router-dom';
