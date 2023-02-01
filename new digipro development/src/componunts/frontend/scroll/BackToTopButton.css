@@ -6,7 +6,7 @@ button{
     background-color: ${({ theme }) => theme.colors.btn};
     box-shadow: ${({ theme }) => theme.colors.shadow};
     border-radius: 50%;
-    position: fixed;
+    /* position: fixed; */
     bottom: 5rem;
     right: 5rem;
     z-index: 999;
