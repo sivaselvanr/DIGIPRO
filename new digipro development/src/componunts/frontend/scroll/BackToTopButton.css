@@ -15,7 +15,7 @@
     font-size: 40px;
     font-weight: 900;
     bottom: 25px;
-    animation: BackToTopButton 10s linear infinite alternate-reverse;
+    animation: BackToTopButton 1s linear infinite alternate-reverse;
 }
 #BackToTopButton:focus{
     outline: none;
