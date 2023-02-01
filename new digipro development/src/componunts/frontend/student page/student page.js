@@ -107,7 +107,7 @@ export default function Student_page() {
             On July 26, 2017, Google removed Instant results, due to a growing number of searches on mobile devices, where interaction with search, as well as screen sizes, differ significantly from a computer.[115][116]
 
             Instant previews
-            "Instant previews" allo<p></p>wed previewing screenshots of search results' web pages without having to open them. The feature was introduced in November 2010 to the desktop website and removed in April 2013 citing low usage.[117][118]
+            "Instant previews" allo<p>wed previewing screenshots of search results' web pages without having to open them. The feature was introduced in November 2010 to the desktop website and removed in April 2013 citing low usage.[117][118]
 
             Dedicated encrypted search page
             Various search engines provide encrypted Web search facilities. In May 2010 Google rolled out SSL-encrypted web search.[119] The encrypted search was accessed at encrypted.google.com[120] However, the web search is encrypted via Transport Layer Security (TLS) by default today, thus every search request should be automatically encrypted if TLS is supported by the web browser.[121] On its support website, Google announced that the address encrypted.google.com would be turned off April 30, 2018, stating that all Google products and most new browsers use HTTPS connections as the reason for the discontinuation.[122]
