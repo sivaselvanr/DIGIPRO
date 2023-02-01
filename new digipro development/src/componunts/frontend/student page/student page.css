@@ -54,4 +54,11 @@
     height: 40px;
     width: 40px;
 }
-%
+#.button:hover,
+.button:active,
+.button:focus {
+  cursor: pointer;
+  background: #d4b743;
+  color: #292826;
+  outline: 0;
+}
