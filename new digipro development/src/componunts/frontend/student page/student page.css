@@ -39,7 +39,7 @@ HeadAndInput{
 /* from tag */
 form{
     display: flex;
-    /* position: relative; */
+    position: relative;
     justify-content: center;
     align-items: center;
 }
