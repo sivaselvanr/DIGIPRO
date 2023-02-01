@@ -18,7 +18,7 @@ export default function Home() {
         <div className="index" >
 
             {/* displaying header in home page */}
-            {/* <Header /> */}
+            <Header />
 
             {/* body tag to show choose role page */}
             <body>
@@ -29,7 +29,7 @@ export default function Home() {
             </body>
 
             {/* displaying footer in home page */}
-            {/* <Footer /> */}
+            <Footer />
         </div>
     );
 }
