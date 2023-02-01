@@ -4,6 +4,8 @@ import React from "react";
 import './student page.css';
 
 //importing StudentPageTable to view student data in table form
+import StudentPageTable from "./StudentPageTable";
+
 //importing BackToTopButton to scroll to top of the page
 import BackToTopButton from "../scroll/BackToTopButton";
 
