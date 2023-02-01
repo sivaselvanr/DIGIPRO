@@ -19,16 +19,11 @@ export default function Student_page() {
                 <h1 className="student_page_heading">Student Information</h1>
                             
                 {/* input field */}
-                <div class="input-group">
-                    <input type="search" id="SearchBox" class="SearchBox" />
-                    <button type="button" class="btn btn-primary">
-                        <i class="fas fa-search"></i>
-                    </button>
-                </div>
+   
             </div>
 
             <div className="StudentDetailsTable">
-                
+
                 {/* student details table */}
                 <StudentDetailsTable />
 
