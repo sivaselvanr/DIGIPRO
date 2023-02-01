@@ -1,7 +1,6 @@
 import React from "react";
 
-//importing BackToTopButton
-
+//importing BackToTopButton to scri
 
 //function to view Student Details in Table View
 export default function StudentDetailsTable(){
