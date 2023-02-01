@@ -13,7 +13,9 @@
     animation: BackToTopButton 20s linear infinite;
 }
 @keyframes BackToTopButton{
-    0%
+    0% {
+        
+    }
 }
 
 
