@@ -33,7 +33,7 @@ export default function BackToTopButton () {
             }}
             onClick={scrollUp}
             >
-                ^</button>
+                                ^</button>
         )}
         </div>;
 }
