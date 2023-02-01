@@ -19,15 +19,7 @@ export default function Student_page() {
                 <h1 className="student_page_heading">Student Information</h1>
                             
                 {/* input field */}
-                <div class="input-group">
-  <div id="search-autocomplete" class="form-outline">
-    <input type="search" id="form1" class="form-control" />
-    <label class="form-label" for="form1">Search</label>
-  </div>
-  <button type="button" class="btn btn-primary">
-    <i class="fas fa-search"></i>
-  </button>
-</div>
+               
             </div>
             <div className="StudentPageTable">
                 {/* student details table */}
