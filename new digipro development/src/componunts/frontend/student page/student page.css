@@ -58,7 +58,9 @@
     background-color: #3b8196;
     transition: background-color 0.5s;
 }
-#SearchButton,
+#SearchButton{
+    
+}
 #SearchButton:focus {
   cursor: pointer;
   background: #5bc1df;
