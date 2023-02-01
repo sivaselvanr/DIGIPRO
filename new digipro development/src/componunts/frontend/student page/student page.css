@@ -4,6 +4,8 @@
     margin-top: auto;
     min-width: 100%;
     max-height: fit-content;
+    overflow-y: hidden;
+
     /* background-color: aqua; */
     /* margin-left: 50%;
     margin-right: 50%; */
