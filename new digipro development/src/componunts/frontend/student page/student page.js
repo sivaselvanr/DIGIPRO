@@ -30,7 +30,7 @@ export default function Student_page() {
             </div>
             <div className="StudentPageTable">
                 {/* student details table */}
-                <StudentPageTable />
+                {/* <StudentPageTable /> */}
             </div>
             {/* Back to top button */}
             <BackToTopButton />
