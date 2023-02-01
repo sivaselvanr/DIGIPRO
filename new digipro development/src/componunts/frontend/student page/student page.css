@@ -33,7 +33,7 @@
     width: 100%;
     height: 100%;
     overflow: hidden;
-    scrollbar-width: thin;
+    scrollbar-width: none;
     /* scrollbar-gutter: stable; */
     /* scrollbar-gutter: stable both-edges; */
     /* scrollbar-color: red; */
