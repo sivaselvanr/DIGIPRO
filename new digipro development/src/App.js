@@ -21,7 +21,7 @@ function App() {
       <div>
 
         {/* displaying header in all page */}
-        {/* <Header /> */}
+        <Header />
 
         {/* routing to anoter page */}
         <Routes>
