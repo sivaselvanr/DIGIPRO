@@ -10,8 +10,8 @@
 ::-webkit-scrollbar-thumb{
     /* background-color: aliceblue; */
     /* background-color: purple; */
-    /* background-color:  rgb(255, 120, 255); */
-    background-color: white;
+    background-color:  rgb(255, 120, 255);
+    /* background-color: white; */
     border-radius: 1em;
     border: 2rem solid transparent;
     /* background-clip:content-box; */
