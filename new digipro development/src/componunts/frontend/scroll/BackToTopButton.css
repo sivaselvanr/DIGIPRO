@@ -11,7 +11,7 @@
     font-weight: 900;
     bottom: 25px;
     &--icon {
-        
+        animation: name duration timing-function delay iteration-count direction fill-mode;
     }
 
 }
