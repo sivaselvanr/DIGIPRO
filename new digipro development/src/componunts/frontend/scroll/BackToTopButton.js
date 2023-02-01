@@ -30,7 +30,7 @@ export default function BackToTopButton () {
                     bottom: "50px",
                     height: "50px",
                     width: "50px",
-                    
+                    font
                 }}
                 onClick={scrollUp}
                 >^</button>
