@@ -28,7 +28,7 @@ const GoToTop = () => {
 
   return (
       isVisible && (
-        <div className="top-btn" onClick={goToBtn}>
+        <div className="top-btn" rewtfdasdfasdfasdfasdfasdf onClick={goToBtn}>
           <FaArrowUp className="top-btn--icon" />
         </div>
       )
