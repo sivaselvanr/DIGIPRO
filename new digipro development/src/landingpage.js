@@ -3,9 +3,6 @@ import React from "react";
 //importing choose_role page
 import Choose_role from "../choose role/choose role";
 
-//importing student_page
-// import Student_page from "../student page/student page"
-
 //Home function
 export default function Home() {
     return (
