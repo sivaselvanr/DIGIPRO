@@ -19,12 +19,7 @@ export default function Student_page() {
                 <h1 className="student_page_heading">Student Information</h1>
                             
                 {/* input field */}
-                <div class="input-group">
-                    <p>
-                        <input type="search" id="gsearch" name="gsearch"></input>
-                        <input type="submit"></input>
-                    </p>
-                </div>
+
 
                 
             </div>
