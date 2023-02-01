@@ -12,7 +12,7 @@
     /* background-clip:content-box; */
 }
 ::-webkit-scrollbar-thumb:hover{
-    /* background-color: var(--helper tint); */
+    background-color: var(--helper tint);
     border-radius: 1rem ;
     border: 2rem solid transparent;
     /* background-clip: content-box; */
