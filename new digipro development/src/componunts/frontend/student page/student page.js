@@ -3,6 +3,7 @@ import React from "react";
 //importing student_page.css file
 import './student page.css';
 
+//importing 
 //student_page function
 export default function Student_page() {
     return (
@@ -12,7 +13,7 @@ export default function Student_page() {
             <h1 className="student_page_heading">Student Information</h1>
 
             {/* Back to top button */}
-            
+
                         
             {/* input field */}
             <form>
