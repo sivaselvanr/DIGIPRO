@@ -1,11 +1,5 @@
 import React from "react";
 
-//importing header function
-import Header from "../header/header";
-
-//importing footer function
-import Footer from "../footer/footer"
-
 //importing choose_role page
 import Choose_role from "../choose role/choose role";
 
