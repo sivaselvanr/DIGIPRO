@@ -20,7 +20,7 @@ export default function Student_page() {
             {/* student page heading */}
             <h1 className="student_page_heading">Student Information</h1>
                         
-            {/* back to t */}
+            {/* back to top button */}
             <a id="button"></a>
 
             {/* input field */}
