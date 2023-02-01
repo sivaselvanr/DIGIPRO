@@ -37,7 +37,7 @@ function App() {
           <Route path='/student page' element={<Student_page />} />
         </Routes>
 
-{/* to go top */}
+        {/* to go top */}
         <GoToTop />
 
         {/* displaying footer in all page */}
