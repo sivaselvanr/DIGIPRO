@@ -34,7 +34,6 @@
 .student_button{
     color: rgb(86, 86, 86);
     text-align: center;
-    /* top: 10%; */
     font-size: 40px;
     font-weight: 900;
     width: 25%;
@@ -45,6 +44,7 @@
     background-repeat: no-repeat;
     background-size: 300px;
     background-position: -50px 0px;
+    /* top: 10%; */
     /* padding: 10%; */
     /* backdrop-filter: blur(8px); */
     /* -webkit-filter: blur(3px); */
