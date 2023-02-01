@@ -24,7 +24,7 @@
 
 /* Input Field is all input box and button contains */
 .InputField{
-    pad
+    padding-bottom: 0%;
 }
 
 /* search box and search button alignment */
