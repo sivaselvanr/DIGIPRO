@@ -5,8 +5,8 @@
     min-width: 100%;
     max-height: fit-content;
     z-index: 100px;
-    /* padding-bottom: 15px; */
     backface-visibility: hidden;
+    /* padding-bottom: 15px; */
     /* background-color: rgb(255, 255, 255); */
     /* background-position: 50% 75%; */
     /* backdrop-filter: blur(50px); */
