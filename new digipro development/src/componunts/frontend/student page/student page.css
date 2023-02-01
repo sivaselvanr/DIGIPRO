@@ -14,11 +14,11 @@
 }
 
 /* inside body scrolling */
-/* .body{
+.body{
     height: 1000px;
     width: auto;
     overflow-y: scroll;
-} */
+}
 
 /* from tag */
 form{
