@@ -32,7 +32,7 @@ export default function Home() {
             </body>
 
             {/* displaying footer in home page */}
-            <Footer />
+            {/* <Footer /> */}
         </div>
     );
 }
