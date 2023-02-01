@@ -64,11 +64,3 @@ form{
     background: none;
     font-size: 18px;
 }
-
-/* button to top */
-#btn-back-to-top {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    display: none;
-  }
