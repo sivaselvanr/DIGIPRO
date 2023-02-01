@@ -1,3 +1,3 @@
 import React from "react";
 
-//function to view Student De
+//function to view Student Details in Table View
