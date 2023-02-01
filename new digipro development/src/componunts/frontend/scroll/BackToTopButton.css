@@ -6,7 +6,7 @@ button{
     background-color: blueviolet;
     border-radius: 50%;
     /* z-index: 999; */
-    display: flex;
+    /* display: flex; */
     justify-content: center;
     align-items: center;
     cursor: pointer;
