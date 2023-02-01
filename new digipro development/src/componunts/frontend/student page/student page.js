@@ -23,7 +23,7 @@ export default function Student_page() {
 
                         <input type="search" id="form1" class="form-control" />
                         <label class="form-label" for="form1">Search</label>
-                    </div>
+
                     <button type="button" class="btn btn-primary">
                         <i class="fas fa-search"></i>
                     </button>
