@@ -19,7 +19,7 @@ export default function Student_page() {
                 <h1 className="StudentPageHeading">Student Information</h1>
                             
                 {/* input field */}
-                <form >
+                <form className="">
                     <div className="SearchBoxAndButton">
                         <input type="search" id="SearchBox" name="q" placeholder="Search..."/>
                         <button type="submit" id="SearchButton"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
