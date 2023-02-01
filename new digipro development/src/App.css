@@ -11,4 +11,6 @@
     border: 2rem solid transparent;
     background-clip:content-box;
 }
-::-webkit-scrollbar-thumb:
+::-webkit-scrollbar-thumb:hover{
+    
+}
