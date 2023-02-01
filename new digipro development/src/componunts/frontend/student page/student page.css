@@ -37,7 +37,9 @@
     border-radius: 10px 0px 0px 10px;
     background-color: grey;
 }
-#SearchBox:
+#SearchBox:focus{
+    
+}
 #SearchButton{
     border: none;
     border-radius: 0px 10px 10px 0px;
