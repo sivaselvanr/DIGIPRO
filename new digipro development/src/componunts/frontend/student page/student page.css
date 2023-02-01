@@ -55,7 +55,7 @@
 /* from tag */
 form{
     display: flex;
-    position: ;
+    position: relative;
     justify-content: center;
     align-items: center;
 }
