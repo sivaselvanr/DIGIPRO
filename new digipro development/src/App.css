@@ -5,7 +5,7 @@
     background-color: var(--black);
     /* background-color: rgba(255, 120, 255); */
     /* background-color: transparent; */
-    background-color: black;
+    /* background-color: black; */
 }
 ::-webkit-scrollbar-thumb{
     /* background-color: aliceblue; */
