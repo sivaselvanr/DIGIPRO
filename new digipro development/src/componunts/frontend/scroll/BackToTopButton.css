@@ -23,6 +23,7 @@
     background-color: rgb(255, 255, 255);;
     transition: background-color 0.1s; 
 }
+/*  */
 #BackToTopButton:focus{
     outline: none;
 }
