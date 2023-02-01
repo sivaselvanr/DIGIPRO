@@ -20,9 +20,7 @@ export default function Student_page() {
                             
                 {/* input field */}
                 <form>
-                    
                     <input type="search" id="SearchBox" name="q"/>
-
                 </form>
             </div>
 
