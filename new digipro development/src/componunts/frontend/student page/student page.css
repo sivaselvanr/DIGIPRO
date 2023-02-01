@@ -1,5 +1,5 @@
 /* scroll lock the Head and input field */
-.HeadAndInput{
+HeadAndInput{
     position:sticky;
     top: 10px;
     margin-top: auto;
