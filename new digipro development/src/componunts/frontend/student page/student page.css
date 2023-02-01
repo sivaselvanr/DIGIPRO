@@ -6,6 +6,7 @@
     max-height: fit-content;
     z-index: 100px;
     padding-bottom: 15px;
+    backface-visibility: hidden;
     /* backdrop-filter: blur(50px); */
     /* transform: translate(0%, 0%); */
     /* background-color: rgb(255, 255, 255); */
