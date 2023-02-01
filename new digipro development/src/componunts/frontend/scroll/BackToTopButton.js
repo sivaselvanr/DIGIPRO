@@ -26,7 +26,7 @@ export default function BackToTopButton () {
             {backToTopButton && (
                 <button className="BackToTopButton" 
                 style={{
-                    position
+                    position: "fixed"
                 }}
                 onClick={scrollUp}
                 >^</button>
