@@ -1,6 +1,6 @@
 import React from "react";
 
-//importing BackToTopButton to scr
+//importing BackToTopButton to scroll
 
 //function to view Student Details in Table View
 export default function StudentDetailsTable(){
