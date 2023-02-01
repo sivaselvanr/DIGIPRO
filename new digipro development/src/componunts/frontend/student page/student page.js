@@ -20,7 +20,7 @@ export default function Student_page() {
                             
                 {/* input field */}
                 <div class="input-group">
-                    <input type="search" id="SearchBox" class="Searc" />
+                    <input type="search" id="SearchBox" class="Search" />
                     <button type="button" class="btn btn-primary">
                         <i class="fas fa-search"></i>
                     </button>
