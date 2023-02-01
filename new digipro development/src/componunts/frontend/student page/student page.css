@@ -23,7 +23,7 @@
 }
 
 /* search box and search button alignment */
-.SearchBoxButton{
+.SearchBoxAndButton{
     text-align: center;
     background-color: aqua;
 }
