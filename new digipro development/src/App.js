@@ -38,7 +38,7 @@ function App() {
         </Routes>
 
         {/* to go top */}
-        <GoToTop />
+        {/* <GoToTop /> */}
 
         {/* displaying footer in all page */}
         <Footer />
