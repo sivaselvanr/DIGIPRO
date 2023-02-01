@@ -20,7 +20,7 @@
 /* while clicking BackToTopButton */
 #BackToTopButton:active {
     background-color: rgb(255, 255, 255);;
-    transition: background-color 0.5s; 
+    transition: background-color 0.s; 
 }
 #BackToTopButton:focus{
     outline: none;
