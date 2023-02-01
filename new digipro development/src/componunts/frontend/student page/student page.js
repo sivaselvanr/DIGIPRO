@@ -20,14 +20,14 @@ export default function Student_page() {
                             
                 {/* input field */}
                 <div class="input-group">
-  <div class="form-outline">
-    <input type="search" id="form1" class="form-control" />
-    <label class="form-label" for="form1">Search</label>
-  </div>
-  <button type="button" class="btn btn-primary">
-    <i class="fas fa-search"></i>
-  </button>
-</div>
+                <div class="form-outline">
+                    <input type="search" id="form1" class="form-control" />
+                    <label class="form-label" for="form1">Search</label>
+                </div>
+                <button type="button" class="btn btn-primary">
+                    <i class="fas fa-search"></i>
+                </button>
+                </div>
 
                 
             </div>
