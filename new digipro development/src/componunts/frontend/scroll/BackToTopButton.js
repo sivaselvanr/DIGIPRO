@@ -24,15 +24,7 @@ export default function BackToTopButton () {
     return (
         <div className="BackToTopButton">
             {BackToTopButton && (
-                <button style={{
-                    position: "fixed",
-                    button: "50px",
-                    right:"50px",
-                    height:"50px",
-                    width:"50px",
-                    fontSize:"50px",
-                }}
-                onClick={scrollUp}>^</button>
+
             )}
         </div>
     )
