@@ -81,7 +81,7 @@ export default function Student_page() {
 
             The publication 2600: The H<p>acker Quarterly compiled a list of words that Google Instant did not show suggested results for, with a Google spokesperson giving the following statement to Mashable:[113]
 
-            There are several reasons you may not be seeing search queries for a particular topic. Among other things, we apply a narrow set of removal policies for pornography, violence, and hate speech. It's important to note that removing queries from Autocomplete is a hard problem, and not as simple as blacklisting particular terms and phrases.
+            There are several reasons you </p>may not be seeing search queries for a particular topic. Among other things, we apply a narrow set of removal policies for pornography, violence, and hate speech. It's important to note that removing queries from Autocomplete is a hard problem, and not as simple as blacklisting particular terms and phrases.
 
             In search, we get more than one billion searches each day. Because of this, we take an algorithmic approach to removals, and just like our search algorithms, these are imperfect. We will continue to work to improve our approach to removals in Autocomplete, and are listening carefully to feedback from our users.
 
