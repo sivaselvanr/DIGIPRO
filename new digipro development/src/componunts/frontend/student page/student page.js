@@ -119,7 +119,7 @@ export default function Student_page() {
 
             nt results, due to a growing number of searches on mobile devices, where interaction with search, as well as screen sizes, differ significantly from a computer.[115][116]
 
-            Instant previews
+            Instant previews</p>
             "Instant previews" allowed previewing screenshots of search results' web pages without having to open them. The feature was introduced in November 2010 to the desktop website and removed in April 2013 citing low usage.[117][118]
 
             Dedicated encrypted search page
