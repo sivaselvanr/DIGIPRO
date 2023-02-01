@@ -23,10 +23,5 @@ export default function BackToTopButton () {
 
     return (
         <div className="App"></div>;
-
-        {backToTopButton && (
-            
-        )
-        }
     )
 }
