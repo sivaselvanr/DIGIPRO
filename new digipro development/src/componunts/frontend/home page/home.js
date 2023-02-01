@@ -21,7 +21,7 @@ export default function Home() {
         <div className="index" >
 
             {/* displaying header in home page */}
-            <Header />
+            {/* <Header /> */}
 
             {/* body tag to show choose role page */}
             <body>
