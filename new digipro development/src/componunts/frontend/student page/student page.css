@@ -1,6 +1,6 @@
 /* scroll lock the Head and input field */
 .HeadAndInput{
-    position: sticky;
+    position:
     top: 10px;
     margin-top: auto;
     min-width: 100%;
