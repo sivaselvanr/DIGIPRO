@@ -21,8 +21,7 @@ export default function BackToTopButton () {
         })
     }
 
-    return 
-        <div className="BackToTopButton">
+    return <div className="BackToTopButton">
             {BackToTopButton && (
 
             )}
