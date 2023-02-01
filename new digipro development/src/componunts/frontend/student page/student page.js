@@ -21,7 +21,7 @@ export default function Student_page() {
             <h1 className="student_page_heading">Student Information</h1>
                         
             {/* back to top button */}
-            <button id="back_"></button>
+            <button id="back_to_top"></button>
             {/* <script>
             var btn = $('#button');
 
