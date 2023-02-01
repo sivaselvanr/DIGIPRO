@@ -54,7 +54,7 @@
     height: 40px;
     width: 40px;
 }
-#.button:hover,
+#:hover,
 .button:active,
 .button:focus {
   cursor: pointer;
