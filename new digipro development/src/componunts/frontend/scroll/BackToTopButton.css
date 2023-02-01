@@ -18,7 +18,7 @@
     animation: BackToTopButton 1s linear infinite alternate-reverse;
 }
 #BackToTopButton:focus{
-    outline: none;
+    /* outline: none; */
 }
 @keyframes BackToTopButton{
     0% {
