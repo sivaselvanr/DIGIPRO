@@ -21,7 +21,8 @@ export default function Student_page() {
                 {/* input field */}
                 <div class="input-group">
                     <p>
-                        <input type="search" id="SearchBox"></input>
+                    <input type="search" id="gsearch" name="gsearch">
+  <input type="submit">
                     </p>
                 </div>
 
