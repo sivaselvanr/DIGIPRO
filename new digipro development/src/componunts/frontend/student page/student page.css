@@ -21,7 +21,7 @@
     position: sticky;
     top: 176px;
     background: purple;
-    opacity: 01;
+    /* opacity: 01; */
     border-radius: 35px 35px 35px 35px;
     box-shadow: 0px 25px 100px 10px ;
     width: 50%;
