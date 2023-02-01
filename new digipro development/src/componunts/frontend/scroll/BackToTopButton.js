@@ -6,7 +6,7 @@ export default function BackToTopButton () {
 
     useEffect(() => {
         window.addEventListener("scroll", () => {
-            if
+            if(window.sc)
         })
     })
     return (
