@@ -1,6 +1,7 @@
 /* scroll lock the Head and input field */
 .HeadAndInput{
-    
+    position: sticky;
+    top: 0;
 }
 
 /* student full page */
