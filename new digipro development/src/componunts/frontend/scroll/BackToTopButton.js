@@ -24,7 +24,9 @@ export default function BackToTopButton () {
     return (
         <div className="App">
             {backToTopButton && (
-                <button style={}>^</button>
+                <button style={{
+                    
+                }}>^</button>
             )}
         </div>;
     )
