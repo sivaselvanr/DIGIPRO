@@ -32,7 +32,7 @@ export default function Student_page() {
                 </div>
             </form>
 
-            {/* stu */}
+            {/* student  */}
 
         </div>
     );
