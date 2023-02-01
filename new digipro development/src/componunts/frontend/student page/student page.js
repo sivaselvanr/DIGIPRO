@@ -25,8 +25,6 @@ export default function Student_page() {
                         <i class="fas fa-search"></i>
                     </button>
                 </div>
-
-                
             </div>
             <div className="StudentPageTable">
                 {/* student details table */}
