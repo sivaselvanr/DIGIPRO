@@ -40,7 +40,7 @@
 #SearchBox:focus{
     transition: all 0.5s;
     box-shadow: 0 0 40px #5bc1df;
-    bo
+    border-color: #5bc1df;
 }
 #SearchButton{
     border: none;
