@@ -18,6 +18,8 @@ import Footer from './componunts/frontend/footer/footer';
 function App() {
     return (
       <div>
+
+        {/*  */}
         <Header />
         {/* routing to anoter page */}
         <Routes>
@@ -31,7 +33,7 @@ function App() {
           <Route path='/student page' element={<Student_page />} />
         </Routes>
 
-        {/* displaying footer in  */}
+        {/* displaying footer in all page */}
         <Footer />
       </div>
     );
