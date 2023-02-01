@@ -16,7 +16,7 @@
     position: sticky;
     top: 200px;
     background-color: whitesmoke;
-    fill-opacity: initial;
+    fill-opacity: 5;
     /* background-position: 0px 20px; */
     /* opacity: 0.5; */
 }
