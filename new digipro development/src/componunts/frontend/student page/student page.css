@@ -25,7 +25,6 @@
 /* search box and search button alignment */
 .SearchBoxAndButton{
     text-align: center;
-    background-color: aqua;
 }
 #SearchBox{
     border: none;
