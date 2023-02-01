@@ -6,7 +6,6 @@ button{
     height: 6rem;
     color: #fff;
     border-radius: 50%;
-    /* position: fixed; */
     bottom: 5rem;
     right: 5rem;
     z-index: 999;
