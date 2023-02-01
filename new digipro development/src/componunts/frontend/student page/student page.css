@@ -34,10 +34,10 @@
 }
 #SearchBox{
     border: 100px;
-    border-color: rgba(199, 0, 0, 0.849);
+    border-color: grey;
     border-radius: 10px 0px 0px 10px;
-    background-color: rgb(235, 235, 235);
     /* border-bottom: #5bc1df; */
+    background-color: rgb(235, 235, 235);
 }
 #SearchBox:focus{
     transition: all 0.5s;
