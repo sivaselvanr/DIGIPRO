@@ -22,7 +22,7 @@
     background-color: rgb(255, 120, 255);
     transition: background-color 0.5s;
 }
-#BackToTopButton: {
+#BackToTopButton:active {
     background-color: bisque;;
     transition: background-color 0.1s; 
     transform: scale(0.98,0.98);
