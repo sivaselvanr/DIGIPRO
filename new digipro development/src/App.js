@@ -16,7 +16,7 @@ import Header from './componunts/frontend/header/header';
 import Footer from './componunts/frontend/footer/footer';
 
 //importing GoTOTop
-import f
+import GoToTop from './componunts/frontend/Go to top /GoToTopButton';
 
 function App() {
     return (
