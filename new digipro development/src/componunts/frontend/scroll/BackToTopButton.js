@@ -5,7 +5,7 @@ export default function BackToTopButton () {
     const [backToTopButton, serBackToTopButton] = useState(false);
 
     useEffect(() => {
-        window.
+        window.addEventListener
     })
     return (
         <div className="App"></div>;
