@@ -56,7 +56,7 @@
 }
 #SearchButton:hover{
     background-color: #3b8196;
-    transition: background-color 01;
+    transition: background-color 0.1s;
 }
 #SearchButton,
 #SearchButton:focus {
