@@ -64,10 +64,10 @@ const GoToTop = () => {
 
 //     @keyframes gototop {
 //       0% {
-//         transform: translateY(-0.5rem);
-//       }
-//       100% {
-//         transform: translateY(1rem);
+      //   transform: translateY(-0.5rem);
+      // }
+      // 100% {
+      //   transform: translateY(1rem);
 //       }
 //     }
 //   }
