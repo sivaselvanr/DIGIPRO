@@ -55,7 +55,7 @@
     width: 40px;
 }
 #SearchButton:hover{
-    background-color:  rgb(155, 155, 61);
+    background-color:  rgb(255, 255, 0);
     transition: background-color 0.5s;
 }
 #SearchButton:active{
