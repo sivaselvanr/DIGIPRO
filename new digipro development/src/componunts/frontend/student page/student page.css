@@ -16,11 +16,11 @@ HeadAndInput{
     /* top: 200px; */
 }
 /* StudentpageTable  */
-/* .StudentPageTable{
+.StudentPageTable{
     scroll-padding-top: 50%;
     padding-top: 8%;
     z-index:1;
-} */
+}
 /* student full page */
 .student_page {
     width: 100%;
