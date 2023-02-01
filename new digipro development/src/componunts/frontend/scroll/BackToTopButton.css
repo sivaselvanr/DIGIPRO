@@ -14,7 +14,6 @@
     bottom: 25px;
     animation: BackToTopButton 1s linear infinite alternate-reverse;
 }
-
 /* hover effect for BackToTopButton */
 #BackToTopButton:hover{
     background-color: rgb(219, 4, 219);
