@@ -1,6 +1,6 @@
 import React from "react";
 
-//importing t
+//importing 
 
 //function to view Student Details in Table View
 export default function StudentDetailsTable(){
