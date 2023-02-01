@@ -6,6 +6,7 @@ import { Routes, Route } from 'react-router-dom';
 //importing index from frontend folder
 import Home from './landingpage';
 
+
 //importing student page from student folder under frontent folder
 import Student_page from './componunts/frontend/student page/student page';
 
@@ -33,7 +34,7 @@ function App() {
           {/* browser url = http://hostname:port/student page */}
           <Route path='/student page' element={<Student_page />} />
         </Routes>
-        
+
         {/* displaying footer in all page */}
         <Footer />
       </div>
