@@ -8,7 +8,7 @@
     height: 50px;
     border-radius: 50px;
     font-size: 50px;
-    font-weight: 900;
+    font-weight: 100;
     bottom: 25px;
     animation: BackToTopButton 1.2s linear infinite alternate-reverse;
 }
