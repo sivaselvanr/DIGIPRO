@@ -4,7 +4,7 @@ import React from "react";
 import './student page.css';
 
 //impriting 
-//importing BackToTopButton to scroll to top 
+//importing BackToTopButton to scroll to top of the page
 import BackToTopButton from "../scroll/BackToTopButton";
 
 //student_page function
