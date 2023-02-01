@@ -17,9 +17,9 @@ HeadAndInput{
 }
 /* StudentpageTable  */
 .StudentPageTable{
-    /* scroll-padding-top: 50%; */
     padding-top: 4%;
     z-index:1;
+    /* scroll-padding-top: 50%; */
 }
 /* student full page */
 .student_page {
