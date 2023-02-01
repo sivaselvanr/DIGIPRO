@@ -31,6 +31,12 @@ export default function Student_page() {
                     </p>
                 </div>
             </form>
+
+            <div className="StudentPageTable">
+                {/* student details table */}
+                <StudentPageTable />
+            </div>
+
         </div>
     );
 }
