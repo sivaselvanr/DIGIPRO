@@ -23,7 +23,7 @@
     background-color: rgb(255, 255, 255);;
     transition: background-color 0.1s; 
 }
-/* transmition */
+/* transmition for  */
 @keyframes BackToTopButton{
     0% {
         transform: translateY(-0.5rem);
