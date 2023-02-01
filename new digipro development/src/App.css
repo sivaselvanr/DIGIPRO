@@ -9,9 +9,9 @@
 }
 ::-webkit-scrollbar-thumb{
     background-color:  rgb(255, 120, 255);
-    /* background-color: white; */
     border-radius: 1em;
     border: 2rem solid transparent;
+    /* background-color: white; */
     /* background-color: purple; */
     /* background-color: aliceblue; */
     /* background-clip:content-box; */
