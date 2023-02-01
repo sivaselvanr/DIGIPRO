@@ -36,7 +36,7 @@ function App() {
         </Routes>
 
         {/* displaying footer in all page */}
-        {/* <Footer /> */}
+        <Footer />
       </div>
     );
 }
