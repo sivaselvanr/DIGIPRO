@@ -25,8 +25,8 @@ export default function Student_page() {
                     <div className="search_field">
                         <p className="search_box">
                         <button type="button" class="btn btn-primary">
-    <i class="fas fa-search"></i>
-  </button>
+                            <i class="fas fa-search"></i>
+                        </button>
                         </p>
                     </div>
                 </form>
