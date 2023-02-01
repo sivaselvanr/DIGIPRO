@@ -10,7 +10,6 @@
     font-size: 10px;
     font-weight: 900;
     bottom: 25px;
-    foc
     animation: BackToTopButton 1.2s linear infinite alternate-reverse;
 }
 @keyframes BackToTopButton{
