@@ -37,6 +37,7 @@ export default function Student_page() {
             e.preventDefault();
             $('html, body').animate({scrollTop:0}, '300');
             });
+            </script>
 
 
 
