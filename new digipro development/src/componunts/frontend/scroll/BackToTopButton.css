@@ -13,7 +13,7 @@
     border-radius: 50px 50px 50px 50px;
     font-size: 40px;
     font-weight: 900;
-    display: none;
+    /* display: none; */
     bottom: 25px;
     animation: BackToTopButton 1.2s linear infinite alternate-reverse;
 }
