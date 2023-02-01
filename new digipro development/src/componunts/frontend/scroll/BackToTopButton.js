@@ -29,3 +29,5 @@ export default function BackToTopButton () {
         </div>
     );
 }            
+
+<i class="bi bi-arrow-up"></i>
