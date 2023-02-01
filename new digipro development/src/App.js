@@ -24,7 +24,7 @@ function App() {
 
         {/* displaying header in all page */}
         <Header />
-
+        
         <GoToTop />
 
         {/* routing to anoter page */}
