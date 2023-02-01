@@ -12,7 +12,7 @@ export default function Home() {
             <body>
 
                 {/* displaying choose_role page in home page */}
-                <Choose_role />
+                {/* <Choose_role /> */}
 
             </body>
         </div>
