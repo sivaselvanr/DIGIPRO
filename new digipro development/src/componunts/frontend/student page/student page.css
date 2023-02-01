@@ -74,6 +74,7 @@ form{
 
 /* button to top */
 #btn-back-to-top {
+    CSS: \F148
     position: fixed;
     bottom: 20px;
     right: 20px;
