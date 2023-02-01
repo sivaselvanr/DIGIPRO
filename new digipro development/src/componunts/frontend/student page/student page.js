@@ -55,10 +55,9 @@ export default function Student_page() {
             type="button"
             class="btn btn-danger btn-floating btn-lg"
             id="btn-back-to-top"
-            class="bi bi-arrow-up"
             >
             {/* <i class="fas fa-arrow-up"></i> */}
-            
+            <i class="bi bi-arrow-up"></i>
 
             </button>
                         
