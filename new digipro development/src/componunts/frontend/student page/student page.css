@@ -1,7 +1,7 @@
 /* scroll lock the Head and input field */
 .HeadAndInput{
     position: fixed;
-    top: 10%;
+    top: 10;
 }
 
 /* student full page */
