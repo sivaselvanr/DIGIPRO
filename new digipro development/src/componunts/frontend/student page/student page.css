@@ -1,7 +1,7 @@
 /* scroll lock the Head and input field */
 .HeadAndInput{
     position: sticky;
-    top: 10px;
+    top: 800px;
 }
 
 /* student full page */
