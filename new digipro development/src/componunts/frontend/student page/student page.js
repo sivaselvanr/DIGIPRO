@@ -20,7 +20,7 @@ export default function Student_page() {
                             
                 {/* input field */}
                 <div class="input-group">
-                    <input type="search" id="Search"
+                    <input type="search" id="SearchBox"
                 </div>
 
                 
