@@ -23,7 +23,9 @@
 }
 
 /* Input Field is all input box and button contains */
-.InputField
+.InputField{
+    background-color: aqua;
+}
 
 /* search box and search button alignment */
 .SearchBoxAndButton{
