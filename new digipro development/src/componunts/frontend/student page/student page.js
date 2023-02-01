@@ -83,7 +83,7 @@ export default function Student_page() {
 
             There are several reasons you </p>may not be seeing search queries for a particular topic. Among other things, we apply a narrow set of removal policies for pornography, violence, and hate speech. It's important to note that removing queries from Autocomplete is a hard problem, and not as simple as blacklisting particular terms and phrases.
 
-            In search, we get more than one billion searches each day. Because of this, we take an algorithmic approach to removals, and just like our search algorithms, these are imperfect. We will continue to work to improve our approach to removals in Autocomplete, and are listening carefully to feedback from our users.
+            In search, we get more than one bi<p></p>llion searches each day. Because of this, we take an algorithmic approach to removals, and just like our search algorithms, these are imperfect. We will continue to work to improve our approach to removals in Autocomplete, and are listening carefully to feedback from our users.
 
             Our algorithms look not only at specific words, but compound queries based on those words, and across all languages. So, for example, if there's a bad word in Russian, we may remove a compound word including the transliteration of the Russian word into English. We also look at the search results themselves for given queries. So, for example, if the results for a particular query seem pornographic, our algorithms may remove that query from Autocomplete, even if the query itself wouldn't otherwise violate our policies. This system is neither perfect nor instantaneous, and we will continue to work to make it better.
 
