@@ -22,21 +22,23 @@ export default function Student_page() {
                         
             {/* back to top button */}
             <a id="button"></a>
-            
-            var btn = $('#button');
 
-            $(window).scroll(function() {
-            if ($(window).scrollTop() > 300) {
-                btn.addClass('show');
-            } else {
-                btn.removeClass('show');
-            }
-            });
+           var btn = $('#button');
 
-            btn.on('click', function(e) {
-            e.preventDefault();
-            $('html, body').animate({scrollTop:0}, '300');
-            });
+$(window).scroll(function() {
+  if ($(window).scrollTop() > 300) {
+    btn.addClass('show');
+  } else {
+    btn.removeClass('show');
+  }
+});
+
+btn.on('click', function(e) {
+  e.preventDefault();
+  $('html, body').animate({scrollTop:0}, '300');
+});
+
+
 
             {/* input field */}
             <form>
