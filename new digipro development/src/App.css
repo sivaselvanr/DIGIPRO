@@ -8,12 +8,12 @@
     /* background-color: black; */
 }
 ::-webkit-scrollbar-thumb{
-    /* background-color: aliceblue; */
     /* background-color: purple; */
     background-color:  rgb(255, 120, 255);
     /* background-color: white; */
     border-radius: 1em;
     border: 2rem solid transparent;
+    /* background-color: aliceblue; */
     /* background-clip:content-box; */
 }
 ::-webkit-scrollbar-thumb:hover{
