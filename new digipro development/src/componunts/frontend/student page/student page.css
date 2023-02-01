@@ -15,6 +15,7 @@
 .StudentPageTable{
     scroll-padding-top: 50%;
     padding-top: 8%;
+    z-index:1;
 }
 /* student full page */
 .student_page {
