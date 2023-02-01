@@ -2,12 +2,12 @@ import React from "react";
 import { useEffect, useState } from "react";
 
 export default function BackToTopButton () {
-    const [backToTopButton, setBackToTopButton] = useState(false);
+    const [backToTopButton, serBackToTopButton] = useState(false);
 
     useEffect(() => {
         window.addEventListener("scroll", () => {
             if(window.scrollY > 100) {
-                setBackToTopButton(true)
+                serBackToTopButton(true)
             } else {
                 setBackToTopButton(false)
             }
@@ -35,5 +35,5 @@ export default function BackToTopButton () {
                 >
                     ^</button>
             )}
-        </div>;
+        </div
 }
