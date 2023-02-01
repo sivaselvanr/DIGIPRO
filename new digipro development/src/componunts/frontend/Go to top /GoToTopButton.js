@@ -33,7 +33,6 @@ const GoToTop = () => {
           <FaArrowUp className="top-btn--icon" />
         </div>
       )}
-    </Wrapper>
   );
 };
 
