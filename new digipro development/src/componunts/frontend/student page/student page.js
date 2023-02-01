@@ -16,7 +16,7 @@ export default function Student_page() {
             <div className="HeadAndInput">
 
                 {/* student page heading */}
-                <h1 className="student_page_heading">Student Information</h1>
+                <h1 className="student_pageHeading">Student Information</h1>
                             
                 {/* input field */}
    
