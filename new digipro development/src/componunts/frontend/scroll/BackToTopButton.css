@@ -13,8 +13,3 @@
     animation: BackToTopButton 20s linear infinite;
 }
 @keyframes BackToTopButton{
-    transform: translateY(-0.5rem);
-    }
-100% {
-    transform: translateY(1rem);
-}
