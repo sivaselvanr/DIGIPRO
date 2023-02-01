@@ -26,8 +26,7 @@ export default function BackToTopButton () {
             {backToTopButton && (
                 <button className="BackToTopButton" 
                 onClick={scrollUp}
-                >
-                </button>
+                > </button>
             )}
         </div>
     );
