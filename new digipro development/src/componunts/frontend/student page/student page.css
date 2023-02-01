@@ -76,7 +76,7 @@ form{
 
 /* search button in student page alignment */
 .search_button_in_student_page{
-    position: absolute;
+    /* position: absolute; */
     top: 0;
     right: 0;
     width: 50px;
