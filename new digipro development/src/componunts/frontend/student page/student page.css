@@ -24,6 +24,7 @@
 
 /* search box and search button alignment */
 #SearchBox{
-    bor
+    border: none
+    ;
 }
 
