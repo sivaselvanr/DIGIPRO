@@ -24,8 +24,7 @@ export default function BackToTopButton () {
 
     return (<div className="BackToTopButton">
             {backToTopButton && (
-    return (<div className="BackToTopButton">
-    <a id="button"></a>
+                <a id="button"></a>
             )}
         </div>
     );
