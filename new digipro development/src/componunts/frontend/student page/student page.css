@@ -55,11 +55,11 @@
     width: 40px;
 }
 #SearchButton:hover{
-    background-color:  rgb(248, 248, 53);
+    background-color: #3b8196;
     transition: background-color 0.5s;
 }
-#SearchButton:active{
-    background-color: #3b8196;
+#SearchButton{
+    background-color: y;
 }
 #SearchButton:focus {
   cursor: pointer;
