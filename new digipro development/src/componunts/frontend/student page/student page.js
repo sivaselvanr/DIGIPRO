@@ -21,6 +21,7 @@ export default function Student_page() {
                 {/* input field */}
 
                 
+                
             </div>
             <div className="StudentPageTable">
                 {/* student details table */}
