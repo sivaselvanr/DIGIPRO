@@ -23,6 +23,7 @@ export default function BackToTopButton () {
 
     return (
         <div className="BackToTopButton">
+            {}
             <button className="BackToTopButton">
                 <i class="bi bi-arrow-up"></i>
             </button>
