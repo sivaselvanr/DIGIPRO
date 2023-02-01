@@ -33,7 +33,6 @@
 /* student button style */
 .student_button{
     color: rgb(86, 86, 86);
-    /* text-align: 10px; */
     font-size: 40px;
     font-weight: 900;
     width: 25%;
@@ -44,6 +43,7 @@
     background-repeat: no-repeat;
     background-size: 300px;
     background-position: -50px 0px;
+    /* text-align: 10px; */
     /* margin-top: auto; */
     /* top: 10%; */
     /* padding: 10%; */
