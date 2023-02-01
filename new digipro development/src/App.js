@@ -25,7 +25,17 @@ function App() {
           <Route path='/student page' element={<Student_page />} />
         </Routes>
         <p>
-          ajdf;akjsdf;a
+          ajdf;akjsdf;advantage
+          Adfa
+          defaultadf
+          Adf
+          as
+          df
+          akjsdfa
+          defaultadfdf
+          Adfaa
+          faaf
+          
         </p>
       </div>
     );
