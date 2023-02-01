@@ -27,7 +27,7 @@ export default function Student_page() {
                     <button type="button" class="btn btn-primary">
                         <i class="fas fa-search"></i>
                     </button>
-                    </div>
+                </div>
 
                 
             </div>
