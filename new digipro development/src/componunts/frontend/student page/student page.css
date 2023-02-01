@@ -13,7 +13,7 @@
 .StudentPageTable{
     scroll-padding-top: 50%;
     padding-top: 8%;
-    overflow-wrap: break-word;
+    overflow-wrap: ;
 }
 /* student full page */
 .student_page {
