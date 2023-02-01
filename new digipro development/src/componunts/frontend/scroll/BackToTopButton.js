@@ -14,7 +14,7 @@ export default function BackToTopButton () {
         })
     }, [])
 
-    const scr
+    const scroll
 
     return (
         <div className="App"></div>;
