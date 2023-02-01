@@ -33,7 +33,7 @@ export default function Student_page() {
                 </form>
             </div>
             
-            {/* displaying StudentDetailsTable in  */}
+            {/* displaying StudentDetailsTable in st */}
             <div className="StudentDetailsTable">
 
                 {/* student details table */}
