@@ -12,4 +12,4 @@
     bottom: 25px;
     animation: BackToTopButton 20s linear infinite;
 }
-@keyfraBackToTopButton
+@keyframes BackToTopButton
