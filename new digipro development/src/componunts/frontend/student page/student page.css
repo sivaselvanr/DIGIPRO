@@ -2,7 +2,7 @@
 .StudentDetailsTable{
     width: auto;
     height: 800px;
-    overflow-y: scroll;
+    overflow-y: ;
 }
 /* Hide scrollbar for Chrome, Safari and Opera */
 /* .StudentDetailsTable::-webkit-scrollbar{
