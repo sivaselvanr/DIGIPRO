@@ -21,18 +21,19 @@ export default function BackToTopButton () {
         })
     }
 
-    return (
-        <div className="BackToTopButton">
+    return <div className="BackToTopButton">
             {backToTopButton && (
-                <button className="BackToTopButton" 
-                style={{
-                    position: "fixed",
-                    bottom: "50px",
-                    height: 
+                    <button style={{
+                        position: "fixed",
+                        button: "50px",
+                        right:"50px",
+                        height:"50px",
+                        width:"50px",
+                        fontSize:"50px",
                 }}
                 onClick={scrollUp}
-                >^</button>
+                >
+                    ^</button>
             )}
-        </div>
-    );
-}            
+        </div>;
+}
