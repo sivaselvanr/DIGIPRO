@@ -2,8 +2,8 @@
 .HeadAndInput{
     position: fixed;
     margin-top: auto;
-    margin-left: 50%;
-    margin-right: 50%;
+    /* margin-left: 50%;
+    margin-right: 50%; */
     min-width: 50%;
     max-height: fit-content;
     background-color: aqua;
