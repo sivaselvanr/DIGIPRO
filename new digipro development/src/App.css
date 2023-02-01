@@ -7,7 +7,7 @@
     background-color: transparent;
 }
 ::-webkit-scrollbar-thumb{
-    background-color: aliceblue;
+    background-color: rgb(255, 240, 247);
     border-radius: 1em;
     border: 2rem solid transparent;
     /* background-clip:content-box; */
