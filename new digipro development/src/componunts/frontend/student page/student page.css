@@ -1,11 +1,11 @@
 /* scroll lock the Head and input field */
-.HeadAndInput{
+/* .HeadAndInput{
     position: fixed;
     margin-top: auto;
     min-width: 100%;
     max-height: fit-content;
     z-index: 100px;
-    backface-visibility: hidden;
+    backface-visibility: hidden; */
     /* padding-bottom: 15px; */
     /* background-color: rgb(255, 255, 255); */
     /* background-position: 50% 75%; */
