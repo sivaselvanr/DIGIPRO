@@ -2,15 +2,15 @@
 .HeadAndInput{
     position: fixed;
     margin-top: auto;
-    /* margin-left: 50%;
-    margin-right: 50%; */
     min-width: 100%;
     max-height: fit-content;
     /* background-color: aqua; */
+    /* margin-left: 50%;
+    margin-right: 50%; */
     /* top: 200px; */
 }
 .StudentPageTable{
-    
+
 }
 /* student full page */
 .student_page {
