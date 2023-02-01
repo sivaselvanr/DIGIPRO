@@ -38,7 +38,7 @@
     border-radius: 10px 0px 0px 10px;
     background-color: rgb(235, 235, 235);
     height: 40px;
-    width: max-content;
+    width: ;
     /* border-bottom: #5bc1df; */
 }
 #SearchBox:focus{
