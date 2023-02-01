@@ -5,7 +5,7 @@ button{
     color: #fff;
     background-color: blueviolet;
     border-radius: 50%;
-    z-index: 999;
+    /* z-index: 999; */
     display: flex;
     justify-content: center;
     align-items: center;
