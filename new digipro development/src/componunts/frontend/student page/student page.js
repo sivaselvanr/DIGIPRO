@@ -34,6 +34,8 @@ export default function Student_page() {
                 {/* student details table */}
                 <StudentPageTable />
             </div>
+                            {/* Back to top button */}
+                            <BackToTopButton />
 
         </div>
     );
