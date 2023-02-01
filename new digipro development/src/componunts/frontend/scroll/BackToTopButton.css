@@ -18,8 +18,8 @@
     bottom: 25px;
     animation: BackToTopButton 1s linear infinite alternate-reverse;
 }
-#BackToTopButton{
-    
+#BackToTopButton:hover{
+
 }
 #BackToTopButton:focus{
     outline: none;
