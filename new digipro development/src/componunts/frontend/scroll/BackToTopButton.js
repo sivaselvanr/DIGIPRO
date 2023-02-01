@@ -32,7 +32,7 @@ export default function BackToTopButton () {
                     width:"50px",
                     fontSize:"50px",
                 }}
-                on>^</button>
+                onClick>^</button>
             )}
         </div>;
     )
