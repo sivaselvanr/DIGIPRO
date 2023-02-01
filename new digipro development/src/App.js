@@ -5,7 +5,7 @@ import { Routes, Route } from 'react-router-dom';
 
 //importing index from frontend folder
 // import Home from './landingpage';
-import Home from './componunts/';
+import Home from './componunts/frontend/';
 
 //importing student page from student folder under frontent folder
 import Student_page from './componunts/frontend/student page/student page';
