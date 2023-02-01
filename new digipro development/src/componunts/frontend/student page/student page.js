@@ -22,7 +22,7 @@ export default function Student_page() {
                         
             {/* back to top button */}
             <a id="button"></a>
-            <script>
+            {/* <script>
             var btn = $('#button');
 
                 $(window).scroll(function() {
@@ -37,7 +37,7 @@ export default function Student_page() {
                 e.preventDefault();
                 $('html, body').animate({scrollTop:0}, '300');
                 });
-            </script>
+            </script> */}
 
 
 
