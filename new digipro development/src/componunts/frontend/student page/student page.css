@@ -4,4 +4,6 @@
     height: 800px;
     overflow-y: scroll;
 }
-.StudentDetailsTable::-webkit-sc
+.StudentDetailsTable::-webkit-scrollbar{
+    dis
+}
