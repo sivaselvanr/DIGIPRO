@@ -55,7 +55,7 @@ export default function Student_page() {
                     
             {/* <i class="fas fa-arrow-up"></i> */}
             </button>
-            <i class="bi bi-arrow-up"></i>
+            {/* <i class="bi bi-arrow-up"></i> */}
             {/* student page heading */}
             <h1 className="student_page_heading">Student Information</h1>
                         
