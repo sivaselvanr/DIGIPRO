@@ -1,8 +1,5 @@
 import React from "react";
 
-//importing BackToTopButton to scroll to top by clicking button
-import BackToTopButton from "../scroll/BackToTopButton";
-
 //function to view Student Details in Table View
 export default function StudentDetailsTable(){
     return(
@@ -409,7 +406,6 @@ export default function StudentDetailsTable(){
 
                 </p>
             </body>
-            <BackToTopButton />
         </div>
     );
 }
