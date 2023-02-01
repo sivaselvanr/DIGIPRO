@@ -1,9 +1,6 @@
 import React from "react";
 import { useEffect, useState } from "react";
 
-//importing css file
-// import './BackToTopButton.css'
-
 export default function BackToTopButton () {
     const [backToTopButton, setBackToTopButton] = useState(false);
 
@@ -31,9 +28,7 @@ export default function BackToTopButton () {
                 style={{
                     position: "fixed",
                     bottom: "50px",
-                    height: "50px",
-                    width: "50px",
-                    fontSize: "50px",
+                    height: 
                 }}
                 onClick={scrollUp}
                 >^</button>
