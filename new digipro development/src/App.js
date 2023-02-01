@@ -31,7 +31,7 @@ function App() {
           <Route path='/student page' element={<Student_page />} />
         </Routes>
 
-        {/* displaying footer */}
+        {/* displaying footer in  */}
         <Footer />
       </div>
     );
