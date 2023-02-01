@@ -9,6 +9,8 @@ import Home from './componunts/frontend/home page/home'
 //importing student page from student folder under frontent folder
 import Student_page from './componunts/frontend/student page/student page';
 
+
+
 function App() {
     return (
       <div>
