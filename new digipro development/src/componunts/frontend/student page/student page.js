@@ -33,6 +33,7 @@ export default function Student_page() {
                 </form>
             </div>
             
+            {/* displa */}
             <div className="StudentDetailsTable">
 
                 {/* student details table */}
