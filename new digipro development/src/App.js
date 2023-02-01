@@ -12,7 +12,7 @@ import Student_page from './componunts/frontend/student page/student page';
 function App() {
     return (
       <div>
-        <
+        <Home
         {/* routing to anoter page */}
         <Routes>
 
