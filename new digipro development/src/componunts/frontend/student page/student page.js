@@ -13,9 +13,6 @@ import Footer from "../footer/footer";
 export default function Student_page() {
     return (
         <div className="student_page">
-
-            {/* displaying header in student page */}
-            <Header />
             
             {/* student page heading */}
             <h1 className="student_page_heading">Student Information</h1>
