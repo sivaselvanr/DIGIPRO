@@ -1,6 +1,6 @@
 /* scroll lock the Head and input field */
 .HeadAndInput{
-    position: fixed;
+    position: static;
     margin-top: auto;
     min-width: 100%;
     max-height: fit-content;
