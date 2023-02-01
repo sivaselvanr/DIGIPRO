@@ -37,12 +37,12 @@ HeadAndInput{
 }
 
 /* from tag */
-form{
+/* form{
     display: flex;
     /* position: relative; */
     justify-content: center;
     align-items: center;
-}
+} */
 
 /* search field */
 .search_field{
