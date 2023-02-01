@@ -70,7 +70,7 @@ form{
 /* search box */
 .search_box{
     border-radius: 25px;
-    top: 50%;
+    top: 100%;
     position:sticky;
 }
 
