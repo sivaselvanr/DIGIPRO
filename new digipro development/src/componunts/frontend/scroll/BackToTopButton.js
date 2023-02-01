@@ -28,7 +28,7 @@ export default function BackToTopButton () {
                 style={{
                     position: "fixed",
                     bottom: "50px",
-                    
+                    height: ""
                 }}
                 onClick={scrollUp}
                 >^</button>
