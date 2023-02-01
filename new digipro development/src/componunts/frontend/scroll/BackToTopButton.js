@@ -21,6 +21,7 @@ export default function BackToTopButton () {
         })
     }
 
-    return (<div className="App"></div>
+    return (
+        <div className="App"></div>
         );
 }
