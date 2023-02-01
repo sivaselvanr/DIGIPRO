@@ -57,7 +57,7 @@ export default function Student_page() {
             id="btn-back-to-top"
             >
             {/* <i class="fas fa-arrow-up"></i> */}
-            class="bi bi-arrow-up"
+            
 
             </button>
                         
