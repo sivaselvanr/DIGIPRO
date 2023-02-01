@@ -21,6 +21,7 @@ export default function Student_page() {
             <h1 className="student_page_heading">Student Information</h1>
                         
             {/* back to top button */}
+            
             <a id="button"></a>
 
             {/* input field */}
