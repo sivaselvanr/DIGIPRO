@@ -9,7 +9,7 @@ export default function BackToTopButton () {
             if(window.scrollY > 100) {
                 serBackToTopButton(true)
             } else {
-                
+                setBa
             }
         })
     })
