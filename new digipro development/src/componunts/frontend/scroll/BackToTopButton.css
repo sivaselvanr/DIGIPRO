@@ -12,7 +12,7 @@
     width: 60px;
     height: 60px;
     border-radius: 50px 50px 50px 50px;
-    font-size: 40px;
+    font-size: 80px;
     font-weight: 900;
     bottom: 25px;
     animation: BackToTopButton 1s linear infinite alternate-reverse;
