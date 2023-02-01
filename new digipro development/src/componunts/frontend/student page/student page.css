@@ -1,10 +1,10 @@
 /* scroll lock the Head and input field */
 .HeadAndInput{
     position: fixed;
-    /* top: 200px; */
     margin-top: auto;
     margin-left: 50%;
     margin-right: 50%;
+    /* top: 200px; */
 }
 
 /* student full page */
