@@ -12,7 +12,7 @@ import Student_page from './componunts/frontend/student page/student page';
 function App() {
     return (
       <div>
-        <Headers></Headers>
+        <Headers
         {/* routing to anoter page */}
         <Routes>
 
@@ -24,7 +24,7 @@ function App() {
           {/* browser url = http://hostname:port/student page */}
           <Route path='/student page' element={<Student_page />} />
         </Routes>
-        
+
       </div>
     );
 }
