@@ -24,7 +24,7 @@ export default function BackToTopButton () {
     return (
         <div className="BackToTopButton">
             {backToTopButton && (
-                <button className="BackToTopButton" on>
+                <button className="BackToTopButton" onCanPlay=>
                  <i class="bi bi-arrow-up"></i>
                 </button>
             )}
