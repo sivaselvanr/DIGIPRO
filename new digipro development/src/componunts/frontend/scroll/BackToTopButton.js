@@ -12,7 +12,7 @@ export default function BackToTopButton () {
                 setBackToTopButton(false)
             }
         })
-    }, )
+    }, [])
     return (
         <div className="App"></div>;
     )
