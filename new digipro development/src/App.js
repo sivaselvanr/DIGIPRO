@@ -42,7 +42,7 @@ function App() {
 
         {/* to go top */}
         {/* <GoToTop /> */}
-        <BackToTopButton
+        <BackToTopButton />
         {/* displaying footer in all page */}
         <Footer />
       </div>
