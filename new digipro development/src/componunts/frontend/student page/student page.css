@@ -33,7 +33,7 @@
     text-align: center;
 }
 #SearchBox{
-    border: px;
+    border-style: px;
     border-color: grey;
     border-radius: 10px 0px 0px 10px;
     background-color: rgb(235, 235, 235);
