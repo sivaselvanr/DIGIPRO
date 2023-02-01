@@ -10,7 +10,7 @@
     font-size: 10px;
     font-weight: 900;
     bottom: 25px;
-    animation: BackToTopButton 20s linear infinite;
+    animation: BackToTopButton 1.2s linear infinite;
 }
 @keyframes BackToTopButton{
     0% {
