@@ -35,7 +35,7 @@ export default function Student_page() {
             {/* </div> */}
             
             {/* student details table */}
-            <StudentPageTable />
+            {/* <StudentPageTable /> */}
 
         </div>
     );
