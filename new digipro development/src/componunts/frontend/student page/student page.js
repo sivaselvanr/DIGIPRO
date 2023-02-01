@@ -35,7 +35,7 @@ export default function Student_page() {
             <div className="StudentPageTable">
                 {/* student details table */}
                 <StudentPageTable />
-            </div className>
+            </div>
 
         </div>
     );
