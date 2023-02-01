@@ -14,4 +14,5 @@
 ::-webkit-scrollbar-thumb:hover{
     background-color: var(--helper tint);
     border-radius: 1rem ;
+    border: ;
 }
