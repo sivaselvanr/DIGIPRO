@@ -27,8 +27,6 @@ export default function BackToTopButton () {
                 <button className="BackToTopButton" 
                 onClick={scrollUp}
                 >
-                 {/* <i class="bi bi-arrow-up"></i> */}
-                 sadfasdfasdf
                 </button>
             )}
         </div>
