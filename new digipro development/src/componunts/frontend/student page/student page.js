@@ -31,7 +31,7 @@ export default function Student_page() {
                     </p>
                 </div>
             </form>
-            Back to top button
+            {/* Back to top button */}
 <button
         type="button"
         class="btn btn-danger btn-floating btn-lg"
