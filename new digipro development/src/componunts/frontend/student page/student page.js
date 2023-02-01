@@ -28,9 +28,6 @@ export default function Student_page() {
                     </p>
                 </div>
             </form>
-
-
-
         </div>
     );
 }
