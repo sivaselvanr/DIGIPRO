@@ -21,7 +21,6 @@ export default function Student_page() {
             <h1 className="student_page_heading">Student Information</h1>
 
             {/* Back to top button */}
-            <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
                         
             {/* input field */}
             <form>
