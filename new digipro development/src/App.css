@@ -2,5 +2,5 @@
     width: 2rem;
 }
 ::-webkit-scrollbar-track{
-    background-color: var(--ba);
+    background-color: var(--black);
 }
