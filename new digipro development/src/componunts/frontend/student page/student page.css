@@ -15,7 +15,7 @@
     margin-top: 3%;
     position: sticky;
     top: 200px;
-    background: transparent;
+    /* background: transparent; */
     background: rgb(255, 255, 255);
     /* background-color: whitesmoke; */
     /* opacity: 0.5; */
