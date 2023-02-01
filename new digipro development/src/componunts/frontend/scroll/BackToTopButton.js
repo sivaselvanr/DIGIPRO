@@ -4,6 +4,6 @@ import { useEffect, useState } from "react";
 function BackToTopButton() {
     const [backToTopButton, serBackToTopButton] = useState(false);
     return (
-        <div className="App"
+        <div className="App"></div>
     )
 }
