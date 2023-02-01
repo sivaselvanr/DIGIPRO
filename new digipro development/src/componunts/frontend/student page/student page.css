@@ -58,7 +58,7 @@
     background-color: #3b8196;
     transition: background-color 0.5s;
 }
-#SearchButton:{
+#SearchButton:active{
     background-color: yellow;
 }
 #SearchButton:focus {
