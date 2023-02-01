@@ -16,7 +16,15 @@ export default function Student_page() {
 
             {/* displaying header in student page */}
             <Header />
-            
+
+                        {/* Back to top button */}
+                        <button
+                    type="button"
+                    class="btn btn-danger btn-floating btn-lg"
+                    id="btn-back-to-top"
+                    >
+            <i class="fas fa-arrow-up"></i>
+            </button>
             
             {/* student page heading */}
             <h1 className="student_page_heading">Student Information</h1>
