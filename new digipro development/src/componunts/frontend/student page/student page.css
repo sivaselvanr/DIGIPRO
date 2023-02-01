@@ -14,7 +14,7 @@
 .HeadAndInput{
     margin-top: 3%;
     position: sticky;
-    top: 10;
+    top: -10;
 }
 
 /* StudentPageHeading align to center */
