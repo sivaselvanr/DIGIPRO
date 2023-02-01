@@ -15,7 +15,7 @@ import Header from './componunts/frontend/header/header';
 function App() {
     return (
       <div>
-        <Headers />
+        <Header />
         {/* routing to anoter page */}
         <Routes>
 
