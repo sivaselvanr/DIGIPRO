@@ -27,7 +27,7 @@ function App() {
           {/* browser url = http://hostname:port/student page */}
           <Route path='/student page' element={<Student_page />} />
         </Routes>
-        
+        <
       </div>
     );
 }
