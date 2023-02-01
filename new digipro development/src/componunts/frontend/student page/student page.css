@@ -59,6 +59,6 @@
 #SearchButton:focus {
   cursor: pointer;
   background: #5bc1df;
-  color: #f1ba4b;
+  color: #000000;
   outline: 0;
 }
