@@ -19,7 +19,7 @@ export default function Student_page() {
                 <h1 className="StudentPageHeading">Student Information</h1>
                             
                 {/* input field */}
-                <input type={}
+                <input type="search"
             </div>
 
             <div className="StudentDetailsTable">
