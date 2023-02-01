@@ -28,7 +28,7 @@
 }
 #SearchBox{
     border: none;
-    border-radius: ;
+    border-radius: 10px;
     background-color: grey;
 }
 #SearchButton{
