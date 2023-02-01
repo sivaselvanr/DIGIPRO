@@ -10,7 +10,7 @@ import Home from './componunts/frontend/home page/home'
 import Student_page from './componunts/frontend/student page/student page';
 
 //importing header
-im
+import Header from './componunts/frontend/header/header';
 
 function App() {
     return (
