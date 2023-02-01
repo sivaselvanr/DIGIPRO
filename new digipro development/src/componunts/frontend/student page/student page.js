@@ -21,7 +21,7 @@ export default function Student_page() {
                 {/* input field */}
                 <form>
                     <input type="search" id="SearchBox" name="q" placeholder="Search..."/>
-                    <button type="submit"></button>
+                    <button type="submit">search</button>
                 </form>
             </div>
 
