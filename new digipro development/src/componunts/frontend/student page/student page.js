@@ -31,7 +31,7 @@ export default function Student_page() {
                 {/* student details table */}
                 <StudentDetailsTable />
 
-                {/* Button */}
+                {/* BacktButton */}
                 <BackToTopButton />
             </div>
         </div>
