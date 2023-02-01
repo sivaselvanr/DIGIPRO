@@ -26,6 +26,7 @@ export default function Student_page() {
                     </button>
                 </div>
             </div>
+            
             <div className="StudentPageTable">
                 {/* student details table */}
                 {/* <StudentPageTable /> */}
