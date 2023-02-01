@@ -4,7 +4,7 @@ import React from "react";
 import './student page.css';
 
 //importing Back To Top Button
-import 
+import BackToTopButton from "../scroll/BackToTopButton";
 
 //student_page function
 export default function Student_page() {
