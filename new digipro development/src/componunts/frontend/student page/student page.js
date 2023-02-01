@@ -13,7 +13,7 @@ import BackToTopButton from "../scroll/BackToTopButton";
 export default function Student_page() {
     return (
         <div className="student_page">
-            <div className="HeadAnd"
+            <div className="HeadAndSrea"
             {/* student page heading */}
             <h1 className="student_page_heading">Student Information</h1>
 
