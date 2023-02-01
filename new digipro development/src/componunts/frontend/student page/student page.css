@@ -8,6 +8,7 @@
     padding-bottom: 15px;
     backface-visibility: hidden;
     background-color: rgb(255, 255, 255);
+    background-position: 25% 75%;
     /* backdrop-filter: blur(50px); */
     /* transform: translate(0%, 0%); */
     /* filter: blur(8px); */
