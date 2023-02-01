@@ -3,7 +3,7 @@ import React from "react";
 //importing student_page.css file
 import './student page.css';
 
-//importing StudentPageTable for
+//importing StudentPageTable to view student 
 //importing BackToTopButton to scroll to top of the page
 import BackToTopButton from "../scroll/BackToTopButton";
 
