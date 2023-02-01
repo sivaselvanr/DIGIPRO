@@ -22,7 +22,6 @@ export default function BackToTopButton () {
     }
 
     return <div className="BackToTopButton">
-        
             {backToTopButton && (
                     <button style={{
                         position: "fixed",
