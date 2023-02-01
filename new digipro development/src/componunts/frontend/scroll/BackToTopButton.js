@@ -1,6 +1,6 @@
 import React from "react";
 import { useEffect, useState } from "react";
-import 
+import '/'
 
 export default function BackToTopButton () {
     const [backToTopButton, setBackToTopButton] = useState(false);
