@@ -15,7 +15,8 @@ import Header from './componunts/frontend/header/header';
 //importing footer
 import Footer from './componunts/frontend/footer/footer';
 
-//importing BackTo
+//importing BackToTopButton
+import BackToTopButton from './componunts/frontend/scroll/BackToTopButton';
 //importing GoTOTop
 // import GoToTop from './componunts/frontend/Go to top /GoToTopButton';
 
