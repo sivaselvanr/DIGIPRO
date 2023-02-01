@@ -13,7 +13,7 @@ import Student_page from './componunts/frontend/student page/student page';
 import Header from './componunts/frontend/header/header';
 
 //importing footer
-
+import Footer from './componunts/frontend/footer/footer';
 
 function App() {
     return (
