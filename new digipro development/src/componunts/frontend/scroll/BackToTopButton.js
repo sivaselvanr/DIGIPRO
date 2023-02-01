@@ -14,7 +14,9 @@ export default function BackToTopButton () {
         })
     }, [])
 
-    const scrollUp = () => 
+    const scrollUp = () => {
+        
+    }
 
     return (
         <div className="App"></div>;
