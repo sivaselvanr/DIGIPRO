@@ -28,7 +28,7 @@ export default function BackToTopButton () {
                     position: "fixed",
                     button: "50px",
                     right:"50px",
-                    
+                    height
 
                 }}>^</button>
             )}
