@@ -22,7 +22,7 @@ export default function Student_page() {
                 <div class="input-group">
                     <p>
                         <input type="search" id="gsearch" name="gsearch"></input>
-                        <input type="submit"
+                        <input type="submit"></input>
                     </p>
                 </div>
 
@@ -30,7 +30,7 @@ export default function Student_page() {
             </div>
             <div className="StudentPageTable">
                 {/* student details table */}
-                <StudentPageTable />
+                {/* <StudentPageTable /> */}
             </div>
             {/* Back to top button */}
             <BackToTopButton />
