@@ -7,7 +7,7 @@ export default function BackToTopButton () {
     useEffect(() => {
         window.addEventListener("scroll", () => {
             if(window.scrollY > 100) {
-                serBackToTopButton
+                serBackToTopButton(tu)
             }
         })
     })
