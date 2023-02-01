@@ -27,7 +27,7 @@
     padding-top: 8%;
     overflow: scroll;
     width: auto;
-    height: 1000px;
+    height: auto;
     /* scroll-padding-top: 50%; */
     /* z-index:1; */
 }
