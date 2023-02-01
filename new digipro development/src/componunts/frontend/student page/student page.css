@@ -1,6 +1,6 @@
 /* scroll lock the Head and input field */
 .HeadAndInput{
-    position: static;
+    position: fixed;
     top: 0;
 }
 
