@@ -8,9 +8,6 @@ export default function Home() {
     return (
         <div className="index" >
 
-            {/* displaying header in home page */}
-            {/* <Header /> */}
-
             {/* body tag to show choose role page */}
             <body>
 
