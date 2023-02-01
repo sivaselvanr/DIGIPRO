@@ -15,9 +15,6 @@ export default function Home() {
                 <Choose_role />
 
             </body>
-
-            {/* displaying footer in home page */}
-            {/* <Footer /> */}
         </div>
     );
 }
