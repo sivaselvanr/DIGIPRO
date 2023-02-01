@@ -8,7 +8,9 @@ export default function BackToTopButton () {
         window.addEventListener("scroll", () => {
             if(window.scrollY > 100) {
                 serBackToTopButton(true)
-            } else
+            } else {
+                
+            }
         })
     })
     return (
