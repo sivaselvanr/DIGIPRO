@@ -1,7 +1,7 @@
 import React from "react";
 
 //importing choose_role page
-import Choose_role from "../choose role/choose role";
+import 
 
 //Home function
 export default function Home() {
