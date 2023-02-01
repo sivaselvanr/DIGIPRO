@@ -22,6 +22,11 @@
     background-color: rgb(255, 120, 255);
     transition: background-color 0.5s;
 }
+.tutor_button:active {
+    background-color: bisque;;
+    transition: background-color 0.1s; 
+    transform: scale(0.98,0.98);
+}
 #BackToTopButton:focus{
     outline: none;
 }
