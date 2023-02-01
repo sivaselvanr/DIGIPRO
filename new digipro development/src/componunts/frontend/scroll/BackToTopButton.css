@@ -19,7 +19,8 @@
     animation: BackToTopButton 1s linear infinite alternate-reverse;
 }
 #BackToTopButton:hover{
-    transition: background-color;
+    background-color: ;
+    transition: background-color 0.5s;
 }
 #BackToTopButton:focus{
     outline: none;
