@@ -22,6 +22,10 @@ export default function BackToTopButton () {
     }
 
     return (
-        <div className="top-btn" onClick={scrollUp}></div>
+        <div className="top-btn" onClick={scrollUp}>
+            {backToTopButton && (
+                <FaArrowUp className="top-btn--icon" />
+            )}
+        </div>
     );
 }            
