@@ -56,7 +56,7 @@
 }
 #SearchButton:hover,
 #SearchButton,
-.button:focus {
+:focus {
   cursor: pointer;
   background: #d4b743;
   color: #292826;
