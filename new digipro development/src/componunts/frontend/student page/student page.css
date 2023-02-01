@@ -13,13 +13,6 @@
     font-weight: 800;
 }
 
-/* inside body scrolling */
-/* .body{
-    height: 1000px;
-    width: auto;
-    overflow-y: scroll;
-} */
-
 /* from tag */
 form{
     display: flex;
