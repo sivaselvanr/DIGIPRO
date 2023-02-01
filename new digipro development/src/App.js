@@ -19,7 +19,7 @@ function App() {
     return (
       <div>
 
-        {/*  */}
+        {/* displaying header in all page */}
         <Header />
         {/* routing to anoter page */}
         <Routes>
