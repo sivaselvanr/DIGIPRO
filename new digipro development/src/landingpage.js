@@ -19,6 +19,7 @@ export default function Home() {
                 {/* displaying choose_role page in home page */}
                 <Choose_role />
                 <StudentDetailsTable />
+                <ScrollToTop />
 
             </body>
         </div>
