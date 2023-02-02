@@ -83,7 +83,7 @@
     background-color: #5bc1df;
     height: 40px;
     width: 40px;
-    
+    top: 1;
     /* font-weight: 900; */
 }
 #SearchButton:hover{
