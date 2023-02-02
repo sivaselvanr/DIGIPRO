@@ -9,7 +9,7 @@ import StudentDetailsTable from "./StudentDetailsTable";
 //importing BackToTopButton to scroll to top of the page
 import BackToTopButton from "../scroll/BackToTopButton";
 
-//importing 
+//importing ScrollToTop while landing 
 
 //student_page function
 export default function Student_page() {
