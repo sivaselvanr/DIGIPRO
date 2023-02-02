@@ -45,7 +45,7 @@ export default function Student_page() {
                 {/* BackToTopButton */}
                 <BackToTopButton />
 
-                {/* ScrollToTop  */}
+                {/* ScrollToTop while landing */}
             </div>
         </div>
     );
