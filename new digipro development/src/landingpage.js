@@ -1,9 +1,9 @@
 import React from "react";
 
-//importing choose_role page to select role STUDENT or T
+//importing choose_role page to select role STUDENT or TUTOR
 import Choose_role from "./componunts/frontend/choose role/choose role";
 
-//imp
+//importing 
 
 //Home function
 export default function Home() {
