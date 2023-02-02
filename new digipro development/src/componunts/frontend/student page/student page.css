@@ -42,7 +42,7 @@
 
 /* StudentPageHeading align to center */
 .StudentPageHeading{
-    /* text-align: center; */
+    text-align: center;
     color: white;
     font-weight: 900;
     padding-top: 2%;
