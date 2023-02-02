@@ -6,6 +6,7 @@ import Choose_role from "./componunts/frontend/choose role/choose role";
 // import StudentDetailsTable './componunts/frontend/student page/StudentDetailsTable'
 import StudentDetailsTable from "./componunts/frontend/student page/StudentDetailsTable";
 
+import ScrollToTop from "./componunts/frontend/scroll/ScrollToTop";
 
 //Home function
 export default function Home() {
