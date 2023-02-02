@@ -16,6 +16,8 @@ import ScrollToTop from "../scroll/ScrollToTop";
 export default function Student_page() {
     return (
         <div className="student_page">
+                            {/* ScrollToTop while landing */}
+                            <ScrollToTop />
             <div className="HeadAndInput">
 
                 {/* student page heading */}
