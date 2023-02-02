@@ -77,7 +77,7 @@
     border-color: #5bc1df;
 }
 #SearchButton{
-    border-style: solid;
+    /* border-style: solid; */
     border-color: #5bc1df;
     border-radius: 0px 8px 8px 0px;
     background-color: #5bc1df;
