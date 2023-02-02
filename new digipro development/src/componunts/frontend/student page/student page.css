@@ -69,7 +69,7 @@
     width: 300px;
     padding-left: 15px;
     font-size: large;
-    border-bottom: #5bc1df;
+    /* border-bottom: #5bc1df; */
 }
 #SearchBox:focus{
     transition: all 0.5s;
