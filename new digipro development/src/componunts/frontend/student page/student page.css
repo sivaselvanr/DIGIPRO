@@ -68,7 +68,7 @@
     height: 40px;
     width: 300px;
     padding-left: 15px;
-    font-size:10px;
+    font-size:medium
     /* border-bottom: #5bc1df; */
 }
 #SearchBox:focus{
