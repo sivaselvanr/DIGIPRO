@@ -4,7 +4,7 @@ import React from "react";
 import Choose_role from "./componunts/frontend/choose role/choose role";
 
 // import StudentDetailsTable './componunts/frontend/student page/StudentDetailsTable'
-import StudentDetailsTable from "./StudentDetailsTable";
+import StudentDetailsTable from ".//StudentDetailsTable";
 
 //Home function
 export default function Home() {
