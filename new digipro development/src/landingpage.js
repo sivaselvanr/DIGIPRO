@@ -3,8 +3,6 @@ import React from "react";
 //importing choose_role page to select role STUDENT or TUTOR
 import Choose_role from "./componunts/frontend/choose role/choose role";
 
-
-
 //Home function
 export default function Home() {
     return (
