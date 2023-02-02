@@ -1,6 +1,6 @@
 import React from "react";
 
-//importing choose_role page to select role
+//importing choose_role page to select role STUDENT or T
 import Choose_role from "./componunts/frontend/choose role/choose role";
 
 //imp
