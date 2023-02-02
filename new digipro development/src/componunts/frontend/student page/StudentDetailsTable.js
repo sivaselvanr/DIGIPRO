@@ -1,7 +1,7 @@
 import React from "react";
 
 //function to view Student Details in Table View
-export default function StudentDetailsTable(){
+export default function StudentDetailsTable() {
     return(
         <div className="StudentDetailsTable">
             <body>
