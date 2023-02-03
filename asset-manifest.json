@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/DIGIPRO/static/css/main.1822a4a5.css",
-    "main.js": "/DIGIPRO/static/js/main.05a718eb.js",
-    "static/js/787.8f93198f.chunk.js": "/DIGIPRO/static/js/787.8f93198f.chunk.js",
-    "static/media/logo_snr.jpg": "/DIGIPRO/static/media/logo_snr.69319b15258752dbf745.jpg",
-    "static/media/digipro header title card background.png": "/DIGIPRO/static/media/digipro header title card background.e2c338fd47058b6d66ae.png",
-    "static/media/logo_digiproIT.svg": "/DIGIPRO/static/media/logo_digiproIT.e1d2318cd334e3ae7a28b27e44a01877.svg",
-    "static/media/logo_srec.png": "/DIGIPRO/static/media/logo_srec.add4600cc7570425e9e0.png",
-    "static/media/student button icon.svg": "/DIGIPRO/static/media/student button icon.6d4247835da3719879e8.svg",
-    "static/media/teacher button icon.svg": "/DIGIPRO/static/media/teacher button icon.7afe6e4ba41f408d9c7e.svg",
-    "index.html": "/DIGIPRO/index.html",
-    "main.1822a4a5.css.map": "/DIGIPRO/static/css/main.1822a4a5.css.map",
-    "main.05a718eb.js.map": "/DIGIPRO/static/js/main.05a718eb.js.map",
-    "787.8f93198f.chunk.js.map": "/DIGIPRO/static/js/787.8f93198f.chunk.js.map"
+    "main.css": "/static/css/main.ac73f92a.css",
+    "main.js": "/static/js/main.89ba7767.js",
+    "static/js/787.8f93198f.chunk.js": "/static/js/787.8f93198f.chunk.js",
+    "static/media/logo_snr.jpg": "/static/media/logo_snr.69319b15258752dbf745.jpg",
+    "static/media/digipro header title card background.png": "/static/media/digipro header title card background.e2c338fd47058b6d66ae.png",
+    "static/media/logo_digiproIT.svg": "/static/media/logo_digiproIT.e1d2318cd334e3ae7a28b27e44a01877.svg",
+    "static/media/logo_srec.png": "/static/media/logo_srec.add4600cc7570425e9e0.png",
+    "static/media/student button icon.svg": "/static/media/student button icon.6d4247835da3719879e8.svg",
+    "static/media/teacher button icon.svg": "/static/media/teacher button icon.7afe6e4ba41f408d9c7e.svg",
+    "index.html": "/index.html",
+    "main.ac73f92a.css.map": "/static/css/main.ac73f92a.css.map",
+    "main.89ba7767.js.map": "/static/js/main.89ba7767.js.map",
+    "787.8f93198f.chunk.js.map": "/static/js/787.8f93198f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1822a4a5.css",
-    "static/js/main.05a718eb.js"
+    "static/css/main.ac73f92a.css",
+    "static/js/main.89ba7767.js"
   ]
 }
