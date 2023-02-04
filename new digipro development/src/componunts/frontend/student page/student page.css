@@ -58,9 +58,9 @@
 }
 
 /* search box and search button alignment */
-/* .SearchBoxAndButton{
+.SearchBoxAndButton{
     text-align: center;
-} */
+}
 #SearchBox{
     border-style: solid;
     border-color: #5bc1df;
