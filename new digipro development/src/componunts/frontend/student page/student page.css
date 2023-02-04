@@ -75,7 +75,7 @@
 #SearchBox:focus{
     /* transition: all 10s; */
     transition: background-color 0.5s;
-    box-shadow: 0 0 40px #5bc1df;
+    /* box-shadow: 0 0 40px #5bc1df; */
     border-color: #5bc1df;
 }
 #SearchButton{
