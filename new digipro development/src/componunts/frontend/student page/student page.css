@@ -60,6 +60,7 @@
 /* search box and search button alignment */
 .SearchBoxAndButton{
     text-align: center;
+    display: inline;
 }
 #SearchBox{
     border-style: solid;
