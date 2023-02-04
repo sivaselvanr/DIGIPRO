@@ -33,8 +33,7 @@ export default function Student_page() {
                             </svg>
                         </button> */}
                         <button class="btn btn-secondary" type="button">
-            
-            <i class="fa fa-search"></i>
+                            <i class="fa fa-search"></i>
       </button>
                     </div>
 
