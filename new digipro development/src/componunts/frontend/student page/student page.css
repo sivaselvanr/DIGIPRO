@@ -82,7 +82,7 @@
 #SearchButton{
     border-style: solid;
     border-color: #f3fcff;
-    border-radius: 0px 8px 8px 0px;
+    border-radius: 8px 8px 8px 0px;
     background-color: #50abc7;
     height: 40px;
     width: 40px;
