@@ -33,7 +33,7 @@ export default function Student_page() {
                             </svg>
                         </button> */}
                          <div class="input-group">
-                            <span><input type="text" class="form-control" placeholder="Search this blog"/>
+                            <span><input type="text" class="form-control" placeholder="Search this blog"/></span>
                             <div class="input-group-append">
                                 <button class="btn btn-secondary" type="button">
                                 <i class="fa fa-search"></i>
