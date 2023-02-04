@@ -37,7 +37,7 @@ export default function Student_page() {
                             <div class="input-group-append">
                                 <span><button id="SearchButton" class="btn btn-secondary">
                                 <i class="fa fa-search"></i>
-                                </button>
+                                </button></span>
                             </div>
                         </div>
                     </div>
