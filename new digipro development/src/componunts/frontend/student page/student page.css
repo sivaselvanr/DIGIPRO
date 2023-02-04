@@ -73,7 +73,7 @@
     /* border-bottom: #5bc1df; */
 }
 #SearchBox:focus{
-    transition: all 1s;
+    transition: all 5s;
     box-shadow: 0 0 40px #5bc1df;
     border-color: #5bc1df;
 }
