@@ -39,7 +39,7 @@ export default function Student_page() {
                                 <i class="fa fa-search"></i>
                                 </button>
                             </div>
-                        </div>
+                        {/* </div> */}
                     </div>
 
                 </form>
