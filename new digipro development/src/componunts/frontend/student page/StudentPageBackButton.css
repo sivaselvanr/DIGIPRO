@@ -1,0 +1,47 @@
+/* StudentPageBackButton class */
+.StudentPageBackButton{
+    position: absolute inherit;
+    margin-top: 20px;
+}
+/* Button */
+#StudentPageBackButton{
+ border: none;   
+ border-radius: 0px 20px 20px 0px;
+ background-color: rgb(255, 120, 255);
+ font-size: 20px;
+ padding-bottom: 0px;
+ padding-left: 20px;
+ padding-right:1px;
+}
+/* hover effec for button */
+#StudentPageBackButton:hover{
+    background-color: rgb(219, 4, 219);
+    transition: background-color 0.5s;
+    transition: color 0.5s;
+    color: white;
+}
+/* while clicking button effect */
+#StudentPageBackButton:active{
+    background-color: yellow;
+}
+
+/* button icon */
+.bi-arrow-left-circle-fill{
+    color: aliceblue;
+    background-color: black;
+    padding: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 500px 500px 500px 500px ;
+}
+/* hover effect for button icon */
+.bi-arrow-left-circle-fill:hover{
+    background-color: white;
+    transition: background-color 0.5s;
+    color:black;
+}
+/* while clicking effect for button icon */
+.bi-arrow-left-circle-fill:active{
+    background-color: black;
+    color: yellow;
+}

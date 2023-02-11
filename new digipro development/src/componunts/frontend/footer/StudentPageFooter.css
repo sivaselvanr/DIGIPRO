@@ -1,0 +1,10 @@
+/* DIGIPRO Team logo alignment */
+#StudentPageFooterlogodigiproit {
+  width: 6%;
+  height:6%;
+  opacity: 0.5;
+  position: fixed;
+  bottom: -1%;
+  margin-left: 47%;
+  margin-right: 53%;
+}

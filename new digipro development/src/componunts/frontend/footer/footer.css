@@ -1,18 +1,13 @@
+/* footer */
 .footer {
-    bottom: 0;
-    margin-left: 48%;
+    bottom: -1%;
     position: fixed;
-    /* text-align: center; */
-    /* align: bottom; */
-
+    width: 100%;
+    text-align: center;
   }
 
+  /* DIGIPRO Team Logo style and alignment */
 .logodigiproit {
-  width: 40%;
-  /* align-items: center; */
-  /* justify-content: center; */
-  /* text-align: center; */
-  /* align: bottom; */
-  /* max-width: 50%; */
-  /* max-height: 50%; */
+  width: 6%;
+  height:6%;
 }

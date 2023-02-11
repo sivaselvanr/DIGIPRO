@@ -1,31 +1,17 @@
-/* BackToTopButton alignment and color */
+/* button "BackToTopButton" style */
 #BackToTopButton{
-    bottom: 0;
-    right: 1%;
-    color: rgb(0, 0, 0);
-    background-color:  rgb(255, 120, 255);
     position: fixed;
-    width: 60px;
-    height: 60px;
-    border: none;
-    border-radius: 25px;
-    font-size: 55px;
-    font-weight: 900;
-    bottom: 25px;
-    animation: BackToTopButton 1s linear infinite alternate-reverse;
-}
-/* hover effect for BackToTopButton */
-#BackToTopButton:hover{
-    background-color: rgb(219, 4, 219);
-    transition: background-color 0.5s;
-}
-/* while clicking BackToTopButton background color change to white*/
-#BackToTopButton:active {
-    background-color: rgb(255, 255, 255);;
-    transition: background-color 0.1s; 
+    color: white;
+    background-color: rgb(255, 120, 255);
+    bottom: -15px;
+    right: 1%;
+    border:none;
+    border-radius: 100px 100px 10px 10px;
+    padding-bottom: 1.5%;
+    animation: bi-caret-up 1s linear infinite alternate-reverse;
 }
 /* transmition for BackToTopButton */
-@keyframes BackToTopButton{
+@keyframes bi-caret-up{
     0% {
         transform: translateY(-0.5rem);
     }
@@ -33,3 +19,35 @@
         transform: translateY(1rem);
     }
 }
+/* hover effect for BackToTopButton */
+#BackToTopButton:hover{
+    background-color: rgb(219, 4, 219);
+    transition: background-color 0.5s;
+}
+/* while clicking effect for BackToTopButton */
+#BackToTopButton:active{
+    background-color: yellow;
+    transition: background-color 0s;
+
+}
+
+/* BackToTopButton icon  */
+.bi-caret-up{
+    color:  rgb(255, 120, 255) ;
+    background-color: rgb(32, 32, 32);
+    border: none;
+    font-size: 25px;
+    border-radius:100px;
+}
+/* hover effect for BackToTopButton icon */
+.bi-caret-up:hover{
+    background-color: white;
+    transition: background-color 0.5s;
+}
+/* while clicking BackToTopButton icon background color */
+.bi-caret-up:active {
+    color: yellow;
+    background-color: black;
+    transition: background-color 0.1s; 
+}
+

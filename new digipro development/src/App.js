@@ -1,5 +1,6 @@
 import React from 'react';
 
+//importing App.css file into App.js file
 import './App.css';
 
 // importing components from react-router-dom package
@@ -10,20 +11,11 @@ import Home from './landingpage';
 // import Home from './componunts/frontend/home page/home';
 
 //importing student page from student folder under frontent folder
-import Student_page from './componunts/frontend/student page/student page';
-
-//importing header
-import Header from './componunts/frontend/header/header';
-
-//importing footer
-import Footer from './componunts/frontend/footer/footer';
+import StudentPages from './StudentPages';
 
 function App() {
     return (
       <div>
-
-        {/* displaying header in all page */}
-        <Header />
 
         {/* routing to anoter page */}
         <Routes>
@@ -34,11 +26,9 @@ function App() {
 
           {/* Student page */}
           {/* browser url = http://hostname:port/student page */}
-          <Route path='/student page' element={<Student_page />} />
+          <Route path='/student page' element={<StudentPages />} />
         </Routes>
 
-        {/* displaying footer in all page */}
-        <Footer />
       </div>
     );
 }

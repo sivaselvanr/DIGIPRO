@@ -16,7 +16,7 @@
     max-height: 150%;
     width:150px;
     height:150px;
-    margin: 0.1%;
+    margin: 1px;
     top: 0;
 }
 
@@ -60,7 +60,6 @@
     background: url(/src/componunts/frontend/assets/digipro\ header\ title\ card\ background.png);-webkit-background-clip:text;
     animation:title_card 20s linear infinite;
 }
-
 /* title card background animation */
 @keyframes title_card{ 
     100%{ 
